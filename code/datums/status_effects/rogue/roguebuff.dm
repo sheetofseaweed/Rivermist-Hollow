@@ -260,7 +260,7 @@
 		pintle.functional = TRUE
 		had_disfunctional_pintle = TRUE
 
-	owner?.sexcon?.adjust_charge(SEX_MAX_CHARGE)
+	owner?.sexcon?.set_edging(0)
 
 /datum/status_effect/buff/fermented_crab/on_remove()
 	. = ..()
