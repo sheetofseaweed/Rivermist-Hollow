@@ -258,6 +258,8 @@ SUBSYSTEM_DEF(migrants)
 
 	SSticker.minds += character.mind
 	GLOB.joined_player_list += character.ckey
+	if(character.client)
+		character.client.update_ooc_verb_visibility()
 	
 	SSquirks.AssignQuirks(humanc, humanc.client, TRUE)
 	if(humanc)

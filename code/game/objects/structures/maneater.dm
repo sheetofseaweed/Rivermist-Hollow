@@ -56,7 +56,9 @@
 
 /obj/structure/flora/roguegrass/maneater/real/Crossed(atom/movable/AM)
 	..()
-	if(world.time <= last_eat + 5 SECONDS)
+	if(obj_broken)
+		return
+	if(world.time <= last_eat + 8 SECONDS)
 		return
 	if(has_buckled_mobs())
 		return
@@ -83,16 +85,16 @@
 		return
 
 	buckle_mob(victim, TRUE, check_loc = FALSE)
-	begin_eat(victim)
+	visible_message(span_warningbig("[src] begins to gnaw on [victim]!"))
+	addtimer(CALLBACK(src, PROC_REF(begin_eat), victim), 3 SECONDS, TIMER_OVERRIDE|TIMER_UNIQUE|TIMER_STOPPABLE)
 
 /obj/structure/flora/roguegrass/maneater/real/proc/begin_eat(mob/living/victim, var/chew_factor = 1)
 	if(victim.loc != loc)
 		return
-
-	visible_message(span_warningbig("[src] begins to gnaw on [victim]!"))
-	if(!do_after(victim, 2 SECONDS, progress = FALSE))
-		visible_message(span_warning("[src] stops chewing on [victim]!"))
+	if(!(has_buckled_mobs() && victim.buckled))
 		return
+
+	visible_message(span_warning("[src] chews on [victim]!"))
 
 	playsound(src,'sound/misc/eat.ogg', rand(30,60), TRUE)
 	if(!iscarbon(victim))
@@ -103,7 +105,7 @@
 		if(!limb)
 			begin_eat(victim)
 		victim.flash_fullscreen("redflash3")
-		playsound(src.loc, list('sound/vo/mobs/plant/attack (1).ogg','sound/vo/mobs/plant/attack (2).ogg','sound/vo/mobs/plant/attack (3).ogg','sound/vo/mobs/plant/attack (4).ogg'), 100, FALSE, -1)
+		playsound(loc, list('sound/vo/mobs/plant/attack (1).ogg','sound/vo/mobs/plant/attack (2).ogg','sound/vo/mobs/plant/attack (3).ogg','sound/vo/mobs/plant/attack (4).ogg'), 100, FALSE, -1)
 		if(prob(chew_factor * 15))
 			if(limb.dismember(damage = 20))
 				//limb.forceMove(src)
@@ -114,16 +116,17 @@
 				//	return
 				maneater_spit_out(victim)
 		else
-			victim.run_armor_check(zone, BCLASS_CUT, 20)
+			victim.run_armor_check(zone, BCLASS_CUT, damage = 20)
 
-	if(victim.stat == DEAD)
+	if(victim.stat == DEAD || victim.stat == UNCONSCIOUS)
 		if(!victim.mind)
 			victim.gib()
 			seednutrition += 50
 			return
 		maneater_spit_out(victim)
 
-	begin_eat(victim, chew_factor * 2)
+	last_eat = world.time
+	addtimer(CALLBACK(src, PROC_REF(begin_eat), victim, chew_factor * 2), 3 SECONDS, TIMER_OVERRIDE|TIMER_UNIQUE|TIMER_STOPPABLE)
 
 /obj/structure/flora/roguegrass/maneater/real/proc/maneater_spit_out(mob/living/C)
 	if(!C)
@@ -132,8 +135,6 @@
 		return
 	visible_message(span_danger("[src] spits out [C]!"))
 	unbuckle_mob(C)
-	var/turf/target = get_ranged_target_turf(src, pick(GLOB.alldirs), 3)
-	C.throw_at(target, 3, 2)
 	playsound(src,'sound/misc/maneaterspit.ogg', 100)
 	return TRUE
 

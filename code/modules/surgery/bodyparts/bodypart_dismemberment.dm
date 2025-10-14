@@ -35,7 +35,7 @@
 
 	if(body_zone != BODY_ZONE_HEAD)
 		var/mob/living/carbon/human/victim = owner
-		if(victim.run_armor_check(zone_precise, bclass, damage))
+		if(victim.run_armor_check(zone_precise, bclass, damage = damage))
 			to_chat(victim, span_warning("My armour just saved me from losing my [C.get_bodypart(body_zone).name]!"))
 			return FALSE
 
@@ -118,6 +118,7 @@
 		if(new_turf.density)
 			break
 	throw_at(target_turf, throw_range, throw_speed)
+	owner = C
 	return TRUE
 
 /obj/item/bodypart/chest/dismember(dam_type = BRUTE, bclass = BCLASS_CUT, mob/living/user, zone_precise = src.body_zone, damage = 0)
