@@ -340,20 +340,6 @@
 "amX" = (
 /turf/closed/wall/mineral/rogue/stone/moss,
 /area/rogue/indoors/town/church)
-"anh" = (
-/obj/effect/decal/carpet{
-	pixel_y = -18;
-	pixel_x = -11
-	},
-/obj/effect/decal/carpet/kover_darkred{
-	pixel_x = 15;
-	pixel_y = -3
-	},
-/obj/structure/shisha/hookah{
-	pixel_y = 23
-	},
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "anz" = (
 /obj/structure/fluff/railing/border,
 /obj/structure/fluff/railing/wood{
@@ -420,7 +406,9 @@
 /turf/open/transparent/openspace,
 /area/rogue/outdoors/town/rmh/roofs)
 "aqh" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/west)
 "aqJ" = (
@@ -467,8 +455,7 @@
 /area/rogue/indoors/cave/rmh_cave/greenskins)
 "asA" = (
 /obj/machinery/light/rogue/lanternpost{
-	pixel_x = 15;
-	pixel_y = 6
+	pixel_x = 15
 	},
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/outdoors/town{
@@ -1049,17 +1036,8 @@
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/outdoors/rmh_field/tavel/mountain)
 "aNd" = (
-/obj/structure/fluff/pillow/red{
-	pixel_y = 1;
-	pixel_x = 7
-	},
-/obj/structure/fluff/pillow/red{
-	dir = 1;
-	pixel_x = -5;
-	pixel_y = 6
-	},
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
+/turf/closed/wall/mineral/rogue/wood,
+/area/rogue/outdoors/rmh_field/druid)
 "aNG" = (
 /obj/effect/decal/cobbleedge{
 	dir = 10;
@@ -1277,7 +1255,9 @@
 /turf/closed/wall/mineral/rogue/roofwall/innercorner,
 /area/rogue/indoors/town/rmh/magician/pass)
 "aVQ" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field)
 "aWg" = (
@@ -1651,7 +1631,9 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh/town_hall)
 "bjm" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /obj/structure/flora/roguegrass,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north)
@@ -1828,6 +1810,10 @@
 	},
 /turf/open/floor/rogue/wood/herringbone,
 /area/rogue/indoors/town/rmh)
+"bpB" = (
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/cobble,
+/area/rogue/indoors/town/rmh/magician)
 "bpE" = (
 /obj/structure/table/wood{
 	dir = 1;
@@ -2236,6 +2222,7 @@
 /obj/machinery/light/rogue/hearth{
 	pixel_y = 13
 	},
+/obj/machinery/light/rogue/oven/center,
 /turf/open/floor/rogue/concrete,
 /area/rogue/indoors/town/rmh/magician/pass)
 "bDo" = (
@@ -2608,10 +2595,9 @@
 	alpha = 10;
 	mouse_opacity = 0
 	},
-/turf/closed/wall/mineral/rogue/decostone/mossy/long{
-	dir = 1;
-	name = "suspicious wall";
-	density = 0
+/turf/closed/wall/mineral/rogue/stone/moss{
+	density = 0;
+	name = "suspicious stone wall"
 	},
 /area/rogue/under/town/rmh/sewer)
 "bQj" = (
@@ -3379,7 +3365,9 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh/garrison)
 "ckU" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /obj/structure/vine,
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/druid)
@@ -3565,7 +3553,9 @@
 /area/rogue/indoors/town/rmh)
 "cst" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -3998,10 +3988,6 @@
 /obj/structure/flora/roguetree/stump/log,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north_mountain)
-"cLC" = (
-/obj/structure/roguetent,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "cLF" = (
 /obj/structure/stairs/stone{
 	dir = 1
@@ -4038,10 +4024,6 @@
 	},
 /turf/open/floor/rogue/tile/harem,
 /area/rogue/indoors/town/rmh/magician)
-"cMZ" = (
-/obj/machinery/light/rogue/cauldron,
-/turf/open/floor/rogue/cobblerock,
-/area/rogue/indoors/shelter/town/rmh)
 "cNb" = (
 /obj/effect/decal/cleanable/debris/stony,
 /obj/item/ash,
@@ -4173,11 +4155,15 @@
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/north_mountain)
 "cRG" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/rmh_field/north)
 "cSN" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /obj/structure/flora/roguegrass,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
@@ -5250,10 +5236,6 @@
 /obj/effect/spawner/roguemap/treeorbush,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/exposed/magiciantower)
-"dzV" = (
-/obj/structure/fermentation_keg/water,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "dAg" = (
 /obj/structure/fluff/railing/border{
 	dir = 5;
@@ -5559,7 +5541,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "dIn" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/druid)
 "dIp" = (
@@ -5666,11 +5650,6 @@
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
 	})
-"dMx" = (
-/turf/closed/wall/mineral/rogue/tent{
-	dir = 8
-	},
-/area/rogue/indoors/shelter/town/rmh)
 "dMC" = (
 /obj/structure/fluff/grindwheel,
 /turf/open/floor/rogue/concrete,
@@ -5798,6 +5777,13 @@
 "dPm" = (
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh)
+"dPq" = (
+/obj/structure/standingbell{
+	dir = 1;
+	name = "guild service bell"
+	},
+/turf/open/floor/rogue/wood,
+/area/rogue/indoors/town/rmh/crafters_guild/under)
 "dPx" = (
 /obj/effect/decal/edge_corner{
 	dir = 2;
@@ -5877,8 +5863,7 @@
 "dRM" = (
 /obj/machinery/light/rogue/lanternpost{
 	dir = 1;
-	pixel_x = -5;
-	pixel_y = 7
+	pixel_x = -5
 	},
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/outdoors/town{
@@ -5925,17 +5910,6 @@
 /obj/structure/leyline,
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/west)
-"dUu" = (
-/obj/machinery/light/rogue/firebowl/standing{
-	pixel_x = 10;
-	pixel_y = 26
-	},
-/obj/structure/fluff/alch{
-	pixel_y = 1;
-	pixel_x = 2
-	},
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "dUA" = (
 /obj/structure/flora/roguegrass,
 /obj/structure/flora/hotspring_rocks/small/two,
@@ -6006,7 +5980,9 @@
 /area/rogue/outdoors/rmh_field)
 "dXa" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -6800,13 +6776,6 @@
 /obj/structure/curtain/red,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors/town/rmh)
-"eAK" = (
-/obj/structure/flora/roguegrass/herb/calendula,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "eAM" = (
 /obj/structure/fermentation_keg/water,
 /turf/open/floor/rogue/naturalstone,
@@ -7014,7 +6983,9 @@
 /area/rogue/outdoors/rmh_field/druid)
 "eHm" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/north)
 "eHp" = (
@@ -7024,6 +6995,14 @@
 	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/camp)
+"eHq" = (
+/obj/structure/standingbell{
+	dir = 1;
+	name = "merchant service bell";
+	pixel_x = 1
+	},
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/indoors/town/rmh/merchant)
 "eHt" = (
 /obj/structure/table/vtable/v2,
 /obj/item/reagent_containers/glass/cup/silver/small{
@@ -7061,10 +7040,18 @@
 /turf/open/floor/rogue/cobble,
 /area/rogue/indoors/town/rmh/magician)
 "eIy" = (
-/obj/structure/rack/rogue/shelf/biggest,
-/obj/item/storage/roguebag,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
+/obj/structure/table/wood/large_table/south_west,
+/obj/effect/wisp/prestidigitation{
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy.";
+	pixel_y = 20;
+	pixel_x = 18;
+	light_power = 2;
+	light_outer_range = 5
+	},
+/obj/item/rogueweapon/huntingknife/idagger/silver/arcyne,
+/turf/open/floor/rogue/cobble,
+/area/rogue/indoors/town/rmh/magician)
 "eIV" = (
 /turf/open/floor/rogue/dirt,
 /area/rogue/indoors/cave/rmh_cave/to_underdark)
@@ -7090,6 +7077,10 @@
 	},
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors)
+"eJw" = (
+/obj/structure/table/wood/large_table/middle_west,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/indoors/town/rmh/magician)
 "eJL" = (
 /turf/closed/wall/mineral/rogue/decostone/mossy,
 /area/rogue/indoors/cave/rmh_cave/minotaur)
@@ -7369,7 +7360,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "eUo" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/indoors/town/rmh/library)
 "eUx" = (
@@ -7395,7 +7388,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "eVF" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /obj/structure/flora/roguegrass,
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
@@ -7629,7 +7624,9 @@
 /turf/open/transparent/openspace,
 /area/rogue/outdoors/town/rmh/roofs)
 "fgv" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/east)
 "fgy" = (
@@ -7699,7 +7696,9 @@
 /turf/open/floor/rogue/wood/herringbone,
 /area/rogue/indoors/town/rmh/crafters_guild/under)
 "fje" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/town/rmh/roofs)
 "fjg" = (
@@ -8195,13 +8194,6 @@
 /obj/structure/roguewindow,
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors/town/rmh/magician)
-"fEQ" = (
-/obj/structure/flora/roguegrass/herb/urtica,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "fFa" = (
 /obj/machinery/light/rogue/wallfire/candle/blue/l{
 	pixel_y = 32
@@ -8523,19 +8515,6 @@
 /obj/structure/chair/bench/coucha,
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town/rmh/tavern)
-"fQV" = (
-/obj/structure/fluff/pillow/red{
-	dir = 1;
-	pixel_y = 6;
-	pixel_x = 7
-	},
-/obj/structure/fluff/pillow/green{
-	dir = 8;
-	pixel_y = -6;
-	pixel_x = -5
-	},
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "fRB" = (
 /obj/structure/bed/rogue/bedroll,
 /turf/open/floor/rogue/cobble,
@@ -9029,7 +9008,9 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh/town_hall)
 "gha" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/north)
 "ghb" = (
@@ -9212,7 +9193,9 @@
 	dir = 6
 	},
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -9233,7 +9216,9 @@
 /turf/open/floor/rogue/churchrough,
 /area/rogue/indoors/town/rmh/chapel/basement)
 "goh" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/north)
 "goo" = (
@@ -9810,12 +9795,6 @@
 	},
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/indoors/cave/rmh_cave/mine)
-"gHH" = (
-/obj/structure/rack/rogue/shelf/biggest,
-/obj/item/storage/roguebag,
-/obj/item/storage/roguebag,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "gHK" = (
 /obj/structure/flora/roguetree/pine{
 	icon_state = "pine4-snow"
@@ -10537,7 +10516,8 @@
 	aportalgoesto = "magebog";
 	aportalid = "magetower_bog";
 	name = "teleport to swampland";
-	alpha = 0
+	alpha = 0;
+	required_trait = "Arcyne Training (Expert)"
 	},
 /obj/effect/decal/cobbleedge{
 	icon = 'icons/roguetown/misc/structure.dmi';
@@ -10630,7 +10610,9 @@
 /turf/open/floor/rogue/hay,
 /area/rogue/indoors/town/rmh)
 "hit" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/west)
 "hiu" = (
@@ -10945,7 +10927,9 @@
 /turf/open/floor/rogue/ruinedwood/herringbone,
 /area/rogue/indoors/town/rmh/crafters_guild/under)
 "huk" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/east)
 "hus" = (
@@ -11041,7 +11025,9 @@
 /turf/open/floor/rogue/dirt,
 /area/rogue/under/town/rmh/sewer)
 "hyn" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north)
 "hyt" = (
@@ -11847,7 +11833,9 @@
 /turf/open/floor/rogue/blocks/stonered/tiny,
 /area/rogue/indoors/town/rmh/garrison)
 "idZ" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -12224,8 +12212,7 @@
 /area/rogue/outdoors/rmh_field/west)
 "irw" = (
 /obj/machinery/light/rogue/lanternpost{
-	pixel_x = -7;
-	pixel_y = 17
+	pixel_x = -7
 	},
 /turf/open/floor/rogue/cobble/mossy,
 /area/rogue/outdoors/town{
@@ -12403,7 +12390,9 @@
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/exposed/town/rmh/farm)
 "iyB" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/west)
 "iyK" = (
@@ -12417,6 +12406,16 @@
 	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_air)
+"ize" = (
+/obj/structure/table/wood/large_table/middle_east,
+/obj/item/book/granter/spell/blackstone/acidsplash{
+	spell = /obj/effect/proc_holder/spell/invoked/shadowstep;
+	spellname = "Shadow Step";
+	remarks = list("Fah Mofa");
+	name = "Scroll of Shadow Step"
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/indoors/town/rmh/magician)
 "izg" = (
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/rmh_field/druid)
@@ -12905,8 +12904,7 @@
 "iRh" = (
 /turf/closed/wall/mineral/rogue/stone/moss{
 	density = 0;
-	name = "suspicious stone wall";
-	alpha = 0
+	name = "suspicious stone wall"
 	},
 /area/rogue/under/town/rmh/basement)
 "iRn" = (
@@ -13038,11 +13036,6 @@
 	},
 /turf/open/floor/rogue/church,
 /area/rogue/indoors/town/rmh/chapel/basement)
-"iWw" = (
-/turf/closed/wall/mineral/rogue/tent{
-	dir = 1
-	},
-/area/rogue/indoors/shelter/town/rmh)
 "iWz" = (
 /obj/structure/table/wood{
 	dir = 1;
@@ -13343,13 +13336,6 @@
 /obj/structure/fluff/railing/border,
 /turf/open/floor/rogue/ruinedwood/spiral,
 /area/rogue/indoors/town/rmh)
-"jii" = (
-/obj/structure/handcart,
-/turf/open/floor/rogue/grassred,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "jio" = (
 /turf/closed/mineral/rogue/bedrock{
 	name = "solid rock"
@@ -13536,7 +13522,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "jpf" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /obj/structure/fluff/railing/wood{
 	dir = 8;
 	layer = 2.8;
@@ -13849,7 +13837,9 @@
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/west)
 "jzs" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -14003,7 +13993,9 @@
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/under/cavewet)
 "jHc" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -14186,8 +14178,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "jLS" = (
+/obj/structure/flora/roguegrass/bush/wall/tall,
 /obj/structure/flora/roguegrass/bush/wall,
-/turf/closed/wall/mineral/rogue/wood,
+/turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/rmh_field/druid)
 "jLY" = (
 /turf/closed/wall/mineral/rogue/decostone/end{
@@ -14300,11 +14293,6 @@
 /obj/machinery/light/rogue/wallfire/candle/blue/r,
 /turf/open/floor/rogue/hexstone,
 /area/rogue/under/town/rmh/basement)
-"jQx" = (
-/turf/closed/wall/mineral/rogue/tent{
-	dir = 2
-	},
-/area/rogue/indoors/shelter/town/rmh)
 "jQz" = (
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/town/rmh/roofs)
@@ -14480,7 +14468,9 @@
 /turf/closed/wall/mineral/rogue/stonebrick,
 /area/rogue/indoors/town/rmh/magician/pass)
 "jXF" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_air)
 "jXM" = (
@@ -14636,6 +14626,10 @@
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
 	})
+"kdl" = (
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/indoors/town/rmh/magician)
 "kdo" = (
 /obj/effect/decal/cobbleedge{
 	icon_state = "cobbleedge-e"
@@ -14964,7 +14958,9 @@
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town/rmh/merchant)
 "knk" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/under/cavewet)
 "knr" = (
@@ -15627,10 +15623,6 @@
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
 	})
-"kJs" = (
-/obj/structure/table/wood/folding,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "kJB" = (
 /obj/structure/flora/newtree,
 /obj/structure/flora/roguegrass,
@@ -15982,13 +15974,6 @@
 /obj/structure/flora/newtree,
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/north_mountain)
-"laU" = (
-/obj/structure/flora/roguegrass/swampweed,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "laX" = (
 /obj/machinery/light/rogue/wallfire{
 	pixel_y = 33
@@ -16028,7 +16013,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "lbo" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /obj/structure/fluff/railing/wood{
 	dir = 8;
 	layer = 2.8;
@@ -16406,7 +16393,9 @@
 /turf/open/floor/rogue/cobble,
 /area/rogue/indoors/town/physician)
 "lpl" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_air)
 "lpm" = (
@@ -16628,10 +16617,6 @@
 /obj/item/natural/rock/coal,
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/indoors/cave/rmh_cave/minotaur)
-"luY" = (
-/obj/machinery/tanningrack,
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "lvL" = (
 /obj/effect/decal/cleanable/dreamfiend_ichor,
 /obj/effect/decal/cobbleedge{
@@ -16869,7 +16854,9 @@
 /turf/open/floor/rogue/metal/barograte,
 /area/rogue/under/town/rmh/sewer)
 "lFS" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/closed/wall/mineral/rogue/wooddark/horizontal,
 /area/rogue/outdoors/exposed/town/rmh/farm)
 "lGp" = (
@@ -17451,7 +17438,9 @@
 /turf/open/floor/rogue/hay,
 /area/rogue/indoors/town/rmh)
 "mag" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grasscold,
 /area/rogue/outdoors/mountains/rmh_mountains)
 "mas" = (
@@ -17475,7 +17464,9 @@
 	})
 "maN" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -17547,13 +17538,6 @@
 	icon_state = "grassedge-e"
 	},
 /turf/open/floor/rogue/dirt/road,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
-"mdu" = (
-/obj/structure/flora/roguegrass/herb/hypericum,
-/turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
@@ -17751,7 +17735,9 @@
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors)
 "mkW" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town/rmh/roofs)
 "mlf" = (
@@ -18035,8 +18021,7 @@
 "mtS" = (
 /turf/closed/wall/mineral/rogue/stone/moss{
 	density = 0;
-	name = "suspicious stone wall";
-	alpha = 0
+	name = "suspicious stone wall"
 	},
 /area/rogue/indoors/town/rmh/cell)
 "mut" = (
@@ -18046,13 +18031,6 @@
 /obj/structure/fluff/clockwork/alloy_shards,
 /turf/open/floor/rogue/cobble,
 /area/rogue/indoors/town/rmh/magician)
-"muH" = (
-/obj/structure/flora/roguegrass/herb/mentha,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "muK" = (
 /obj/structure/roguewindow/openclose/reinforced{
 	dir = 4
@@ -18380,10 +18358,12 @@
 /turf/closed/wall/mineral/rogue/craftstone,
 /area/rogue/indoors/town/rmh/town_hall)
 "mFd" = (
-/turf/closed/wall/mineral/rogue/tent{
-	dir = 4
+/obj/structure/flora/roguetree/pine{
+	icon_state = "pine4";
+	plane = -4
 	},
-/area/rogue/indoors/shelter/town/rmh)
+/turf/open/floor/rogue/grassyel,
+/area/rogue/outdoors/rmh_field/west)
 "mFA" = (
 /obj/structure/fluff/railing/fence{
 	dir = 4
@@ -18544,7 +18524,9 @@
 	dir = 1;
 	pixel_y = 0
 	},
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -19083,7 +19065,9 @@
 /turf/open/floor/rogue/carpet,
 /area/rogue/indoors/town/rmh/town_hall)
 "neb" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -19659,7 +19643,9 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/outdoors/rmh_field/east)
 "nAy" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /obj/structure/flora/roguegrass,
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
@@ -19930,8 +19916,7 @@
 /area/rogue/indoors/town/rmh)
 "nKR" = (
 /obj/machinery/light/rogue/lanternpost{
-	pixel_x = 15;
-	pixel_y = 6
+	pixel_x = 15
 	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
@@ -20092,7 +20077,9 @@
 /turf/open/floor/rogue/blocks/stonered/tiny,
 /area/rogue/indoors/town/rmh)
 "nSl" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/druid)
 "nSx" = (
@@ -20300,8 +20287,12 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "nZN" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/druid)
 "oag" = (
@@ -20599,8 +20590,7 @@
 "onq" = (
 /obj/machinery/light/rogue/lanternpost{
 	dir = 1;
-	pixel_x = -5;
-	pixel_y = 7
+	pixel_x = -5
 	},
 /turf/open/floor/rogue/cobble/mossy,
 /area/rogue/outdoors/town{
@@ -20716,7 +20706,9 @@
 /turf/closed/wall/mineral/rogue/roofwall/middle,
 /area/rogue/indoors/town/rmh/crafters_guild/under)
 "orO" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field)
 "osh" = (
@@ -21093,7 +21085,9 @@
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/camp)
 "oCF" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/druid)
 "oDg" = (
@@ -21175,7 +21169,9 @@
 /turf/open/floor/rogue/naturalstone,
 /area/rogue/outdoors/rmh_field/west)
 "oGl" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/west)
 "oGt" = (
@@ -21312,8 +21308,12 @@
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/indoors/town/rmh/crafters_guild/under)
 "oJr" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/druid)
 "oJw" = (
@@ -21625,7 +21625,9 @@
 /turf/open/floor/rogue/tile,
 /area/rogue/indoors/town/rmh/town_hall)
 "oUi" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/druid)
 "oUD" = (
@@ -21693,7 +21695,9 @@
 /area/rogue/indoors/town/rmh/crafters_guild/under)
 "oXN" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north)
 "oXV" = (
@@ -21997,7 +22001,8 @@
 /obj/structure/flora/roguegrass/bush/wall/tall{
 	icon = 'modular_rmh/icons/obj/structures/altfoliagetall.dmi';
 	pixel_y = -64;
-	icon_state = "tallbush2"
+	icon_state = "tallbush2";
+	plane = -3
 	},
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/town{
@@ -22789,7 +22794,9 @@
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/indoors/cave/rmh_cave/minotaur)
 "pMm" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/rmh_field/druid)
 "pMp" = (
@@ -23390,8 +23397,14 @@
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/outdoors/town/rmh/roofs)
 "qoT" = (
-/turf/closed/wall/mineral/rogue/tent,
-/area/rogue/indoors/shelter/town/rmh)
+/obj/structure/flora/roguegrass/bush/wall/long{
+	pixel_x = -32;
+	dir = 1;
+	pixel_y = -16;
+	plane = -3
+	},
+/turf/closed/wall/mineral/rogue/wooddark/vertical,
+/area/rogue/outdoors/exposed/town/rmh/farm)
 "qoZ" = (
 /obj/structure/fluff/walldeco/customflag{
 	pixel_y = -32
@@ -23575,7 +23588,9 @@
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/west)
 "qua" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -24102,8 +24117,7 @@
 "qMr" = (
 /obj/structure/flora/roguegrass,
 /obj/machinery/light/rogue/lanternpost{
-	pixel_x = -7;
-	pixel_y = 17
+	pixel_x = -7
 	},
 /turf/open/floor/rogue/cobble/mossy,
 /area/rogue/outdoors/town{
@@ -24855,9 +24869,6 @@
 /obj/structure/chair/bench/couchablack/r,
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town/rmh/tavern)
-"rka" = (
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "rkd" = (
 /turf/open/transparent/openspace,
 /area/rogue/indoors/town/rmh/chapel)
@@ -24874,7 +24885,9 @@
 /turf/open/floor/rogue/carpet,
 /area/rogue/indoors/town/rmh/town_hall)
 "rkt" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north_mountain)
 "rkB" = (
@@ -24969,7 +24982,8 @@
 	aportalgoesto = "magemountain";
 	aportalid = "magetower_mountain";
 	name = "teleport to mountains";
-	alpha = 0
+	alpha = 0;
+	required_trait = "Arcyne Training (Expert)"
 	},
 /obj/effect/decal/cobbleedge{
 	icon = 'icons/roguetown/misc/structure.dmi';
@@ -25457,7 +25471,9 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh/town_hall)
 "rED" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -25993,8 +26009,7 @@
 	},
 /turf/closed/wall/mineral/rogue/stone/moss{
 	density = 0;
-	name = "suspicious stone wall";
-	alpha = 0
+	name = "suspicious stone wall"
 	},
 /area/rogue/under/town/rmh/sewer)
 "rWv" = (
@@ -26109,7 +26124,9 @@
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/indoors/cave/rmh_cave/minotaur)
 "saX" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/mountains/rmh_mountains)
 "sby" = (
@@ -26216,6 +26233,10 @@
 "shE" = (
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/rmh_air)
+"shF" = (
+/obj/structure/table/wood/large_table/south_east,
+/turf/open/floor/rogue/cobble,
+/area/rogue/indoors/town/rmh/magician)
 "sit" = (
 /obj/structure/fluff/railing/wood{
 	dir = 1;
@@ -26311,7 +26332,9 @@
 /turf/open/floor/rogue/wood/herringbone,
 /area/rogue/indoors/town/rmh)
 "sld" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -26477,12 +26500,13 @@
 /turf/open/floor/rogue/woodturned,
 /area/rogue/indoors/town/rmh/town_hall)
 "sqA" = (
-/obj/item/rogueweapon/hoe,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
+/obj/structure/flora/roguegrass/bush/wall/long{
+	pixel_x = 0;
+	pixel_y = -16;
+	plane = -3
+	},
+/turf/closed/wall/mineral/rogue/wooddark/vertical,
+/area/rogue/outdoors/exposed/town/rmh/farm)
 "sqS" = (
 /obj/effect/decal/cobbleedge{
 	dir = 8;
@@ -26554,13 +26578,6 @@
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
 	})
-"sta" = (
-/obj/structure/closet/crate/chest/wicker,
-/obj/machinery/light/rogue/firebowl/standing{
-	pixel_x = -11
-	},
-/turf/open/floor/rogue/twig,
-/area/rogue/indoors/shelter/town/rmh)
 "stn" = (
 /obj/structure/chair/wood/rogue/chair5{
 	dir = 1
@@ -27478,7 +27495,9 @@
 /turf/closed/wall/mineral/rogue/craftstone,
 /area/rogue/indoors/town/rmh/cell)
 "tdd" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /obj/structure/fluff/railing/border{
 	dir = 5
 	},
@@ -28458,7 +28477,9 @@
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/west)
 "tGt" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/indoors/town/rmh/town_hall)
 "tII" = (
@@ -29057,7 +29078,9 @@
 /area/rogue/outdoors/beach/rmh_beach)
 "ucY" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassyel,
 /area/rogue/outdoors/rmh_field/north_mountain)
 "udb" = (
@@ -29268,7 +29291,9 @@
 /turf/open/floor/rogue/tile/bfloorz,
 /area/rogue/indoors/town/rmh/bath)
 "ump" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt/road,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -30348,16 +30373,6 @@
 	name = "Rivermist Hollow";
 	first_time_text = "RIVERMIST HOLLOW"
 	})
-"uUn" = (
-/obj/structure/bars/grille{
-	max_integrity = 1500
-	},
-/obj/structure/fluff/railing/border,
-/turf/open/transparent/openspace,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "uUq" = (
 /obj/machinery/light/rogue/hearth,
 /obj/machinery/light/rogue/oven/west,
@@ -30521,7 +30536,9 @@
 /obj/structure/fluff/railing/fence{
 	dir = 8
 	},
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/outdoors/exposed/town/rmh/farm)
 "vaH" = (
@@ -30599,9 +30616,16 @@
 /turf/open/floor/rogue/wood,
 /area/rogue/indoors/town/rmh/town_hall)
 "vdG" = (
-/obj/machinery/light/rogue/oven/center,
-/turf/closed/wall/mineral/rogue/craftstone,
-/area/rogue/indoors/town/rmh/magician/pass)
+/obj/structure/closet/crate/chest/neu,
+/obj/item/storage/keyring/mageapprentice,
+/obj/item/book/granter/spell/blackstone/acidsplash{
+	spell = /obj/effect/proc_holder/spell/invoked/shadowstep;
+	spellname = "Shadow Step";
+	remarks = list("Fah Mofa");
+	name = "Scroll of Shadow Step"
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/indoors/town/rmh/magician)
 "vdN" = (
 /obj/structure/flora/roguegrass,
 /turf/open/floor/rogue/naturalstone,
@@ -30840,7 +30864,8 @@
 	aportalgoesto = "mageunderdark";
 	aportalid = "magetower_underdark";
 	name = "teleport to underdark";
-	alpha = 0
+	alpha = 0;
+	required_trait = "Arcyne Training (Expert)"
 	},
 /obj/effect/decal/cobbleedge{
 	icon = 'icons/roguetown/misc/structure.dmi';
@@ -31003,8 +31028,7 @@
 "vvc" = (
 /obj/machinery/light/rogue/lanternpost{
 	dir = 1;
-	pixel_x = -5;
-	pixel_y = 7
+	pixel_x = -5
 	},
 /turf/open/floor/rogue/cobble,
 /area/rogue/outdoors/town{
@@ -31084,7 +31108,9 @@
 	first_time_text = "RIVERMIST HOLLOW"
 	})
 "vyP" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/dirt,
 /area/rogue/outdoors/rmh_field/north_mountain)
 "vzt" = (
@@ -31175,7 +31201,9 @@
 /turf/open/floor/rogue/twig,
 /area/rogue/indoors/town/rmh/witch)
 "vBr" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north)
 "vBS" = (
@@ -31247,13 +31275,6 @@
 /obj/structure/flora/hotspring_rocks/grassy,
 /turf/open/floor/rogue/cobblerock,
 /area/rogue/outdoors/rmh_field/north_mountain)
-"vGz" = (
-/obj/structure/flora/roguegrass/herb/euphrasia,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "vGF" = (
 /obj/structure/table/wood{
 	dir = 9;
@@ -31925,7 +31946,9 @@
 /turf/open/floor/rogue/blocks/paving/vert,
 /area/rogue/under/town/rmh/sewer)
 "whX" = (
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grassred,
 /area/rogue/indoors/town/church)
 "wic" = (
@@ -32547,7 +32570,8 @@
 	aportalgoesto = "magedesert";
 	aportalid = "magetower_desert";
 	name = "teleport to damned desert";
-	alpha = 0
+	alpha = 0;
+	required_trait = "Arcyne Training (Expert)"
 	},
 /obj/effect/decal/cobbleedge{
 	icon = 'icons/roguetown/misc/structure.dmi';
@@ -32563,13 +32587,6 @@
 	},
 /turf/open/floor/rogue/ruinedwood,
 /area/rogue/indoors/town/rmh/town_hall)
-"wFE" = (
-/obj/structure/flora/roguegrass/herb/salvia,
-/turf/open/floor/rogue/dirt,
-/area/rogue/outdoors/town{
-	name = "Rivermist Hollow";
-	first_time_text = "RIVERMIST HOLLOW"
-	})
 "wFW" = (
 /obj/structure/closet/crate/chest{
 	base_icon_state = "woodchestalt";
@@ -32752,7 +32769,9 @@
 /area/rogue/indoors/town/rmh/garrison)
 "wKM" = (
 /obj/structure/flora/newtree,
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/rmh_field/north)
 "wLs" = (
@@ -32913,7 +32932,9 @@
 /area/rogue/indoors/town/rmh)
 "wRK" = (
 /obj/structure/flora/roguegrass,
-/obj/structure/flora/roguegrass/bush/wall/tall,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/outdoors/town{
 	name = "Rivermist Hollow";
@@ -33759,7 +33780,9 @@
 /turf/open/floor/rogue/tile/bfloorz,
 /area/rogue/indoors/town/rmh)
 "xnR" = (
-/obj/structure/flora/roguegrass/bush/westleach,
+/obj/structure/flora/roguegrass/bush/westleach{
+	plane = -3
+	},
 /turf/open/floor/rogue/grass,
 /area/rogue/under/cavewet)
 "xnW" = (
@@ -33817,6 +33840,12 @@
 /obj/item/reagent_containers/food/snacks/grown/manabloom,
 /obj/item/reagent_containers/food/snacks/grown/manabloom,
 /obj/item/reagent_containers/food/snacks/grown/manabloom,
+/obj/item/book/granter/spell/blackstone/acidsplash{
+	spell = /obj/effect/proc_holder/spell/invoked/shadowstep;
+	spellname = "Shadow Step";
+	remarks = list("Fah Mofa");
+	name = "Scroll of Shadow Step"
+	},
 /turf/open/floor/rogue/blocks,
 /area/rogue/indoors/town/rmh/magician)
 "xpP" = (
@@ -47201,14 +47230,14 @@ snm
 snm
 snm
 snm
-gVA
-gVA
-wFE
-dMx
-dMx
-dMx
-muH
-uun
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -47458,14 +47487,14 @@ snm
 snm
 snm
 snm
-gVA
-mdu
-iWw
-eIy
-gHH
-eIy
-qoT
-atp
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -47715,14 +47744,14 @@ snm
 snm
 snm
 snm
-lyL
-iWw
-fQV
-rka
-rka
-rka
-sta
-qoT
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -47972,14 +48001,14 @@ snm
 snm
 snm
 snm
-cAU
-iWw
-anh
-rka
-cMZ
-rka
-rka
-cLC
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -48229,14 +48258,14 @@ snm
 snm
 snm
 snm
-gVA
-iWw
-aNd
-rka
-rka
-rka
-dzV
-jQx
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -48486,14 +48515,14 @@ snm
 snm
 snm
 snm
-lyL
-sqA
-iWw
-dUu
-kJs
-luY
-qoT
-jii
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -48743,14 +48772,14 @@ snm
 snm
 snm
 snm
-gVA
-cAU
-eAK
-mFd
-mFd
-mFd
-fEQ
-gVA
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -49000,14 +49029,14 @@ snm
 snm
 snm
 snm
-atp
-rDm
-cAU
-laU
-vGz
-cAU
-gVA
-gVA
+snm
+snm
+snm
+snm
+snm
+snm
+snm
+snm
 snm
 snm
 snm
@@ -132256,7 +132285,7 @@ dId
 dXk
 dCE
 nZb
-nZb
+dPq
 nZb
 nZb
 nZb
@@ -134074,7 +134103,7 @@ koR
 rjC
 gYg
 pZb
-iCR
+qoT
 bCG
 tVs
 tVs
@@ -134314,7 +134343,7 @@ eUR
 mex
 pZb
 lff
-uUn
+lff
 rYA
 evu
 sDW
@@ -135873,7 +135902,7 @@ sWI
 dtc
 lyL
 gVA
-eaA
+sqA
 rfu
 dog
 aSJ
@@ -136893,7 +136922,7 @@ pZb
 dId
 pDt
 lbC
-lIW
+eHq
 jEX
 ooj
 sZP
@@ -157253,8 +157282,8 @@ wJx
 nOU
 gtL
 nzd
-pXx
-pXx
+pBP
+kdl
 nzd
 nzd
 rmY
@@ -157510,8 +157539,8 @@ uID
 kdY
 kGL
 nzd
-pBP
-nzd
+eJw
+eIy
 nzd
 pXx
 dQN
@@ -157767,9 +157796,9 @@ kUB
 nzd
 nzd
 nzd
-nzd
-nzd
-nzd
+ize
+shF
+bpB
 nzd
 hgl
 dQN
@@ -158024,7 +158053,7 @@ uGD
 tnj
 nzd
 nzd
-pXx
+kdl
 pXx
 nzd
 nzd
@@ -158283,7 +158312,7 @@ pXx
 pXx
 myU
 eeL
-myU
+vdG
 pXx
 mut
 myI
@@ -177945,7 +177974,7 @@ tzB
 tzB
 tzB
 tzB
-qtQ
+mFd
 hit
 lor
 usv
@@ -215115,9 +215144,9 @@ mhu
 hEy
 xcW
 xcW
-jLS
+rNL
 tef
-jLS
+aNd
 cFg
 xcW
 lOI
@@ -215885,7 +215914,7 @@ bba
 dFA
 pMm
 xcW
-jLS
+aNd
 jUJ
 tef
 dFA
@@ -216143,9 +216172,9 @@ bba
 hJR
 cQD
 xcW
-jLS
-jLS
-jLS
+aNd
+aNd
+rNL
 pQp
 tRg
 dFA
@@ -355142,7 +355171,7 @@ etm
 etm
 jxv
 qNW
-vdG
+qNW
 bCW
 jXv
 quh

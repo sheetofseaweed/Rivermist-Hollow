@@ -1,0 +1,13727 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ac" = (
+/obj/machinery/light/rogue/firebowl/stump,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"ag" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"ai" = (
+/turf/open/water/cleanshallow,
+/area/rogue/under/cave/rmh/rdungeon)
+"ak" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"aq" = (
+/obj/structure/stonecoffin,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"at" = (
+/obj/effect/decal/herringbone{
+	dir = 5
+	},
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"aw" = (
+/turf/closed/wall/mineral/rogue/pipe,
+/area/rogue/under/cave/rmh/rdungeon)
+"ax" = (
+/obj/structure/bars/steel,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"aC" = (
+/obj/structure/flora/roguetree/burnt,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"aE" = (
+/obj/effect/landmark/chest_or_mimic/locked_or_trapped,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/obj/effect/spawner/lootdrop/valuable_tableware_spawner,
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"aP" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008;
+	plane = -4
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"aW" = (
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"aX" = (
+/obj/effect/decal/wood/herringbone,
+/obj/effect/decal/wood/herringbone{
+	dir = 4
+	},
+/obj/structure/fluff/pillow{
+	pixel_x = -7
+	},
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"aY" = (
+/obj/structure/flora/newleaf,
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"bk" = (
+/obj/structure/bars/passage/steel{
+	redstone_id = "d2_south";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"bl" = (
+/obj/item/alch/seeddust,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"bm" = (
+/obj/machinery/light/rogue/firebowl/stump,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"bn" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"bq" = (
+/turf/closed/wall/mineral/rogue/stone/window/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"bs" = (
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"bz" = (
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"bD" = (
+/obj/structure/bookcase/random,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc{
+	loot = list(/obj/item/enchantmentscroll/holding = 1, /obj/item/enchantmentscroll/light = 1, /obj/item/enchantmentscroll/mining = 1, /obj/item/enchantmentscroll/nightvision = 1, /obj/item/enchantmentscroll/smithing = 1, /obj/item/enchantmentscroll/woodcut = 1, /obj/item/enchantmentscroll/xylix = 1, /obj/item/book_crafting_kit = 1, /obj/item/spellbook_unfinished = 1, /obj/item/paper = 1, /obj/item/paper/scroll = 1, /obj/item/natural/feather = 1, /obj/item/lockpick = 1, /obj/item/enchantmentscroll/climbing = 1)
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"bG" = (
+/turf/closed/wall/mineral/rogue/stone/window/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"bJ" = (
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"bM" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/reagent_containers/glass/bucket,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"bP" = (
+/obj/structure/flora/roguegrass/bush/wall,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"bR" = (
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"bS" = (
+/obj/structure/fluff/traveltile{
+	aportalgoesto = "mainmapbog";
+	aportalid = "mapbog"
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"bW" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/obj/structure/vine,
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ca" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/obj/structure/table/vtable/v2,
+/obj/item/paper/scroll,
+/obj/item/paper/scroll,
+/obj/effect/decal/wood/herringbone,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"cc" = (
+/obj/structure/flora/roguegrass/water/reeds,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/water/swamp,
+/area/rogue/under/cave/rmh/rdungeon)
+"cd" = (
+/turf/open/floor/rogue/greenstone/glyph2,
+/area/rogue/under/cave/rmh/rdungeon)
+"cl" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"co" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e21";
+	gid = "dungeon_e21"
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"cx" = (
+/obj/structure/chair/frankenstein{
+	plane = -3
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"cA" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"cB" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/item/roguebin/water/gross{
+	pixel_y = 7;
+	pixel_x = 4
+	},
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"cD" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"cI" = (
+/turf/open/floor/rogue/churchbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"cJ" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 1
+	},
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"cK" = (
+/obj/machinery/light/rogue/wallfire/candle/l,
+/obj/structure/table/church/end/alt,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/blocks/stonered,
+/area/rogue/under/cave/rmh/rdungeon)
+"cL" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	dir = 6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"cN" = (
+/obj/structure/flora/roguegrass/bush/westleach,
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/sprite{
+	STASPD = 20;
+	STAPER = 5;
+	STALUC = 5;
+	STAINT = 5;
+	faction = list("dungeon");
+	name = "dungeon sprite";
+	del_on_deaggro = 999999
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"cO" = (
+/obj/effect/decal/herringbone{
+	dir = 10
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"cR" = (
+/obj/structure/fluff/walldeco/med5{
+	pixel_y = 32
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"cS" = (
+/obj/effect/turf_decal/trimline/neutral/filled/line{
+	dir = 1
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"cU" = (
+/obj/structure/winch{
+	gid = "dungeon_e21";
+	redstone_id = "dungeon_e21";
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks/platform,
+/area/rogue/under/cave/rmh/rdungeon)
+"cY" = (
+/obj/machinery/light/rogue/hearth{
+	icon_state = "hearth0";
+	fueluse = 5
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"dc" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"dg" = (
+/obj/structure/flora/roguetree/pine{
+	icon_state = "pine2"
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"dl" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"dm" = (
+/obj/effect/turf_decal/trimline/yellow/line,
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 1
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"dq" = (
+/obj/structure/fluff/walldeco/chains{
+	plane = -3
+	},
+/obj/item/reagent_containers/glass/bucket,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"dw" = (
+/obj/effect/decal/herringbone{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"dy" = (
+/obj/effect/spawner/trap,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"dz" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"dJ" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/sprite{
+	STASPD = 20;
+	STAPER = 5;
+	STALUC = 5;
+	STAINT = 5;
+	faction = list("dungeon");
+	name = "dungeon sprite";
+	del_on_deaggro = 999999
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"dS" = (
+/turf/closed/wall/mineral/rogue/stone/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"dT" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	name = "tough metal wall";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ee" = (
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"ef" = (
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"eg" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e22";
+	gid = "dungeon_e22"
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"eq" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/bush/wall,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"et" = (
+/obj/structure/table/wood,
+/obj/item/roguegear{
+	pixel_x = 6;
+	pixel_y = 12
+	},
+/obj/item/roguegear{
+	pixel_x = -6;
+	pixel_y = 3
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/tools,
+/obj/item/reagent_containers/food/snacks/canned{
+	pixel_x = -10;
+	pixel_y = 15
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"ev" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e11";
+	gid = "dungeon_e11"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"eA" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 1
+	},
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"eE" = (
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"eG" = (
+/turf/open/lava/acid,
+/area/rogue/under/cave/rmh/rdungeon)
+"fd" = (
+/obj/effect/decal/cleanable/roguerune/arcyne/summoning/mid,
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp"
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"fg" = (
+/obj/structure/toilet{
+	pixel_y = 5;
+	pixel_x = 1
+	},
+/obj/structure/table/wood/poor/alt_alt,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"fi" = (
+/obj/machinery/light/rogue/firebowl/stump,
+/turf/closed/wall/mineral/rogue/stone/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"fr" = (
+/obj/effect/decal/cleanable/debris/woody,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"fs" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/obj/structure/trap/stun,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"fv" = (
+/obj/machinery/light/rogue/wallfire/candle/l,
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/tools,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"fC" = (
+/obj/structure/spider/stickyweb/mirespider,
+/turf/open/floor/rogue/blocks/newstone/alt,
+/area/rogue/under/cave/rmh/rdungeon)
+"fE" = (
+/obj/structure/bars/passage/steel{
+	redstone_id = "d3_west";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"fJ" = (
+/obj/structure/rack/rogue/shelf/biggest,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"fL" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"fO" = (
+/turf/open/floor/rogue/hay,
+/area/rogue/under/cave/rmh/rdungeon)
+"fR" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 8
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"fU" = (
+/obj/structure/fluff/walldeco/church/line,
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"fW" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008;
+	plane = -6
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"fY" = (
+/obj/structure/bars/pipe,
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"gc" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/rogueweapon/surgery/saw,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ge" = (
+/obj/structure/table/wood/poor,
+/obj/item/toy/cards/deck,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"gk" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 2;
+	pixel_x = -8
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"gu" = (
+/obj/structure/flora/roguegrass,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"gC" = (
+/obj/structure/flora/roguetree/pine,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"gH" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 1
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"gM" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"gQ" = (
+/obj/structure/table/wood/poor/alt_alt,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"gS" = (
+/obj/effect/decal/herringbone,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"gT" = (
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"gU" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 4;
+	icon_state = "iron_line";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"gY" = (
+/obj/effect/decal/wood/herringbone,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"ha" = (
+/obj/structure/rack/rogue/shelf/biggest,
+/obj/item/natural/cloth,
+/obj/item/natural/cloth,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"hb" = (
+/obj/structure/winch{
+	gid = "dungeon_1east";
+	redstone_id = "dungeon_1east";
+	dir = 4
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"hd" = (
+/obj/effect/decal/herringbone{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"he" = (
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/obj/structure/mineral_door/wood/deadbolt{
+	dir = 8;
+	locked = 1;
+	name = "rotting door";
+	color = "#778079"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"hh" = (
+/obj/structure/bars/pipe{
+	dir = 1;
+	pixel_x = 9
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"hr" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"hv" = (
+/obj/structure/bars/pipe{
+	dir = 6;
+	alpha = 127;
+	pixel_y = 17;
+	pixel_x = -9
+	},
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"hw" = (
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"hB" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/bush/westleach,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"hH" = (
+/turf/open/floor/rogue/blocks/newstone/alt,
+/area/rogue/under/cave/rmh/rdungeon)
+"hK" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 5
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"hO" = (
+/obj/effect/decal/wood/herringbone{
+	dir = 1
+	},
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"hQ" = (
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"hS" = (
+/obj/effect/spawner/lootdrop/general_loot_mid/x3,
+/obj/structure/rack/rogue/shelf/biggest,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"hX" = (
+/obj/machinery/light/rogue/wallfire/candle/floorcandle,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"ig" = (
+/obj/structure/bars{
+	color = "#755f48";
+	name = "rusted bars";
+	max_integrity = 400;
+	layer = 4
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"io" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"ir" = (
+/obj/structure/gate{
+	gid = "dungeon_boss11";
+	redstone_id = "dungeon_boss11";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"iw" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/headless{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"iz" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"iB" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"iC" = (
+/obj/structure/flora/roguegrass/pyroclasticflowers,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"iG" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/obj/structure/trap/stun,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"iN" = (
+/obj/structure/flora/newleaf,
+/obj/structure/trap/damage,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"iO" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10;
+	health = 200
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"iR" = (
+/obj/effect/decal/cleanable/blood/gibs/up,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"iS" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/obj/structure/fluff/walldeco/church/line{
+	pixel_x = 4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"iW" = (
+/turf/open/transparent/openspace,
+/area/rogue/under/cave/rmh/rdungeon)
+"iY" = (
+/obj/machinery/light/rogue/cauldron{
+	fueluse = 5
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"jc" = (
+/obj/item/seeds/sunflower,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"jd" = (
+/obj/structure/fluff/railing/corner/south_west,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 8;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"jh" = (
+/obj/structure/bars,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"ji" = (
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"jn" = (
+/obj/structure/flora/rogueflora/poppy{
+	pixel_x = -4;
+	pixel_y = 6
+	},
+/obj/structure/flora/rogueflora/poppy{
+	pixel_x = 11;
+	pixel_y = 1
+	},
+/obj/structure/flora/rogueflora/poppy{
+	pixel_y = -10
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"jq" = (
+/obj/structure/roguemachine/headeater,
+/obj/structure/table/church/m,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"jv" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside.";
+	plane = -6;
+	layer = 3
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"jw" = (
+/obj/effect/decal/cleanable/blood/old,
+/mob/living/simple_animal/hostile/retaliate/rogue/headless{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"jy" = (
+/obj/effect/decal/herringbone{
+	dir = 8
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"jB" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"jC" = (
+/obj/structure/bars/grille{
+	max_integrity = 1500
+	},
+/turf/open/transparent/openspace,
+/area/rogue/under/cave/rmh/rdungeon)
+"jF" = (
+/obj/item/natural/rock/gem,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"jG" = (
+/obj/machinery/light/rogue/firebowl/stump,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"jI" = (
+/obj/effect/spawner/lootdrop/general_loot_hi,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"jM" = (
+/obj/effect/landmark/chest_or_mimic/locked_or_trapped,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/obj/effect/spawner/lootdrop/blacksteel_equipment_spawner,
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"jN" = (
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"jQ" = (
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"jW" = (
+/obj/structure/winch{
+	gid = "dungeon_boss21";
+	redstone_id = "dungeon_boss21";
+	dir = 4
+	},
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"jZ" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"kj" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"km" = (
+/obj/structure/fluff/railing/corner/south_east,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"kq" = (
+/obj/structure/plasticflaps/opaque,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ku" = (
+/obj/effect/decal/herringbone{
+	dir = 9
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"kx" = (
+/obj/structure/flora/rogueflora/poppy{
+	pixel_x = -4;
+	pixel_y = 6
+	},
+/obj/structure/flora/rogueflora/poppy{
+	pixel_x = 11;
+	pixel_y = 1
+	},
+/obj/structure/flora/rogueflora/poppy{
+	pixel_y = -10
+	},
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"kz" = (
+/obj/structure/bars/pipe{
+	dir = 6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"kC" = (
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"kD" = (
+/obj/structure/flora/roguegrass,
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"kJ" = (
+/obj/item/roguebin/water/gross{
+	pixel_y = 7;
+	pixel_x = 4
+	},
+/obj/structure/table/wood/poor/alt_alt,
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"kP" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/item/roguebin/water/gross{
+	pixel_y = 7;
+	pixel_x = 4
+	},
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"kQ" = (
+/obj/structure/flora/roguegrass/herb/random,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"kS" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_1west";
+	gid = "dungeon_1west";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"kT" = (
+/obj/structure/table/church{
+	icon_state = "stonetable_small"
+	},
+/obj/item/reagent_containers/glass/bottle/rogue/stampot{
+	pixel_x = 5;
+	pixel_y = 8
+	},
+/turf/open/floor/rogue/blocks/newstone/alt,
+/area/rogue/under/cave/rmh/rdungeon)
+"kU" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"kW" = (
+/obj/structure/bars/pipe{
+	dir = 1;
+	pixel_x = 9
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"kY" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 9
+	},
+/obj/structure/bars/pipe{
+	dir = 5
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"li" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/water/reeds,
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"lk" = (
+/obj/structure/fluff/walldeco/chains{
+	plane = -3
+	},
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"lr" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/sprite{
+	STASPD = 20;
+	STAPER = 5;
+	STALUC = 5;
+	STAINT = 5;
+	faction = list("dungeon");
+	name = "dungeon sprite";
+	del_on_deaggro = 999999
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"lt" = (
+/turf/closed/wall/mineral/rogue/craftstone{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"lD" = (
+/obj/structure/flora/roguegrass/water/reeds,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"lF" = (
+/obj/structure/bars/pipe{
+	dir = 10
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"lH" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass{
+	icon = 'icons/obj/flora/jungleflora.dmi';
+	icon_state = "bushb";
+	color = "#666e64"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"lI" = (
+/obj/structure/bars/pipe,
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"lN" = (
+/obj/structure/fluff/railing/border/east,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 6;
+	pixel_y = 10
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"lQ" = (
+/obj/effect/decal/carpet/square,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"lS" = (
+/obj/item/natural/stone,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"lV" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"lX" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/obj/effect/decal/wood/herringbone,
+/obj/effect/decal/carpet{
+	pixel_x = 13;
+	pixel_y = 9;
+	layer = 3.5
+	},
+/obj/item/bedsheet/rogue/double_pelt,
+/obj/item/dildo/gold,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"lY" = (
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"ma" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/hay,
+/area/rogue/under/cave/rmh/rdungeon)
+"me" = (
+/obj/structure/rack/rogue/shelf/big{
+	icon_state = "shelf_biggest";
+	pixel_y = 0
+	},
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"mg" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"mj" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains7";
+	pixel_x = -13
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 10
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"mz" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 6;
+	pixel_x = -8
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"mB" = (
+/obj/structure/mineral_door/wood/donjon/stone{
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"mC" = (
+/obj/structure/spider/stickyweb,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"mD" = (
+/obj/structure/closet/crate/roguecloset/inn/south,
+/obj/effect/spawner/lootdrop/general_loot_low/x3,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"mG" = (
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"mJ" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/yellow/line,
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"mL" = (
+/obj/structure/winch{
+	gid = "dungeon_e32";
+	redstone_id = "dungeon_e32";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"mM" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"mO" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008;
+	plane = -4
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"mP" = (
+/obj/effect/decal/cleanable/debris/woody,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"mS" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/swampweed,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"mY" = (
+/obj/structure/bars/pipe,
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"mZ" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	light_color = "#e03828";
+	color = "#ff210d";
+	light_power = 5;
+	light_outer_range = 7;
+	alpha = 0;
+	layer = 2
+	},
+/obj/structure{
+	icon = 'modular_rmh/icons/obj/structures/32x48.dmi';
+	icon_state = "altar";
+	pixel_y = 0;
+	desc = "Somve sort of strange altar.";
+	name = "altar"
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"na" = (
+/obj/structure/table/optable,
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"nb" = (
+/obj/structure/closet/crate/drawer{
+	pixel_x = 6
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"nf" = (
+/obj/effect/decal/wood/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/debris/woody,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"ng" = (
+/obj/structure/winch{
+	gid = "dungeon_1north";
+	redstone_id = "dungeon_1north";
+	dir = 2
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"nj" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10
+	},
+/turf/open/floor/rogue/churchbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"nk" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 1
+	},
+/obj/machinery/light/oldlight{
+	dir = 1
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"nl" = (
+/obj/structure/flora/rogueshroom/happy/random,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"nm" = (
+/obj/structure/mineral_door/wood/donjon/stone/broken,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"nn" = (
+/obj/structure/bars/pipe{
+	dir = 10
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"np" = (
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"nA" = (
+/obj/structure/bed/rogue/shit,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/rogue/hay,
+/area/rogue/under/cave/rmh/rdungeon)
+"nD" = (
+/obj/structure/lever/wall{
+	redstone_id = "d1_south";
+	dir = 4
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"nG" = (
+/obj/effect/decal/herringbone{
+	dir = 5
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"nI" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 2;
+	icon_state = "iron_line";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"nJ" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/obj/structure/table/wood/poor/alt_alt,
+/obj/item/roguebin/water/gross{
+	pixel_y = 7;
+	pixel_x = -4
+	},
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = 32
+	},
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"nL" = (
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"nO" = (
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"nU" = (
+/turf/open/floor/rogue/greenstone/glyph1,
+/area/rogue/under/cave/rmh/rdungeon)
+"nY" = (
+/obj/machinery/light/rogue/wallfire/candle/r,
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"oa" = (
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"ob" = (
+/mob/living/carbon/human/species/skeleton/npc/bogguard/master{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"og" = (
+/obj/structure/fluff/walldeco/chains{
+	plane = -3
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"ol" = (
+/obj/structure/rack/rogue/shelf/biggest,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"oq" = (
+/obj/machinery/light/roguestreet{
+	dir = 1;
+	pixel_x = -8;
+	plane = -3
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"or" = (
+/obj/structure/table/wood,
+/obj/item/rogueweapon/tongs,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"ow" = (
+/obj/effect/decal/herringbone,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"oz" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{
+	faction = list("dungeon");
+	aggro_vision_range = 5
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"oA" = (
+/obj/structure/fluff/statue/knight/r,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"oD" = (
+/obj/structure/fluff/traveltile{
+	aportalgoesto = "mainmapforest";
+	aportalid = "mapforest"
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 9999999;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"oF" = (
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/obj/structure/bars/passage/steel{
+	redstone_id = "d1_north";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"oH" = (
+/obj/item/roguegear{
+	pixel_x = -2
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"oN" = (
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"oT" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks/stonered/tiny,
+/area/rogue/under/cave/rmh/rdungeon)
+"oY" = (
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"pa" = (
+/obj/structure/bars/pipe,
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"pd" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 1;
+	icon_state = "iron_joint";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"pe" = (
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"pf" = (
+/obj/effect/decal/herringbone,
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"pl" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"pn" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"pr" = (
+/obj/structure/mineral_door/wood/donjon/stone{
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"ps" = (
+/obj/item/natural/rock,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"py" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/closed/wall/mineral/rogue/stone/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"pA" = (
+/obj/structure/mirror{
+	pixel_y = 28
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"pI" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"pM" = (
+/obj/item/reagent_containers/glass/bucket,
+/obj/item/natural/cloth,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"pO" = (
+/obj/structure/fluff/walldeco/church/line,
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"pP" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"pV" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"qc" = (
+/obj/structure/table/church/alt,
+/turf/open/floor/rogue/blocks/stonered,
+/area/rogue/under/cave/rmh/rdungeon)
+"qf" = (
+/obj/item/roguebin/water/gross,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"qn" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008;
+	plane = -4
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"qs" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains6"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"qt" = (
+/obj/structure/bars/pipe{
+	pixel_y = 8;
+	plane = -6
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"qw" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"qA" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/iron_copper_weapon_spawner,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"qD" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 20;
+	aggro_vision_range = 20;
+	health = 200
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"qI" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/effect/spawner/trap,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"qO" = (
+/obj/item/natural/wood/plank,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"qQ" = (
+/obj/item/reagent_containers/eoran_seed,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"qS" = (
+/obj/structure/vine,
+/turf/closed/mineral/rogue/bedrock{
+	name = "solid rock"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"qT" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/bush/westleach,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"qW" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"qX" = (
+/obj/structure/bars/pipe{
+	dir = 1;
+	pixel_x = 9
+	},
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"qZ" = (
+/obj/structure/vine,
+/turf/closed/wall/mineral/rogue/stone/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"ra" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks/newstone/alt,
+/area/rogue/under/cave/rmh/rdungeon)
+"rd" = (
+/obj/structure/table/wood,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/obj/item/roguegear{
+	pixel_x = 6;
+	pixel_y = 12
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"rh" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"rn" = (
+/obj/structure/rack/rogue/shelf/big{
+	icon_state = "shelf_biggest";
+	pixel_y = 0
+	},
+/obj/effect/spawner/lootdrop/potion_vitals,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"rq" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/rogueweapon/surgery/retractor,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"rr" = (
+/obj/structure/roguewindow/stained/yellow,
+/turf/closed/wall/mineral/rogue/stone/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"rx" = (
+/obj/structure/mineral_door/bars,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"rC" = (
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside."
+	},
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"rD" = (
+/obj/structure/flora/rock/pile/largejungle{
+	color = "#666e64"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"rH" = (
+/obj/structure/arcyne_wall,
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"rO" = (
+/obj/machinery/light/rogue/oven/north{
+	fueluse = 5
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"rQ" = (
+/obj/structure/stairs/stone{
+	dir = 1
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"rX" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"sb" = (
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"sc" = (
+/obj/structure/flora/tinymushrooms,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"se" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"sp" = (
+/turf/open/water/bath/pool,
+/area/rogue/under/cave/rmh/rdungeon)
+"ss" = (
+/obj/structure/flora/hotspring_rocks/grassy,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"sv" = (
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"sz" = (
+/obj/item/roguegear{
+	pixel_x = -8;
+	pixel_y = 5
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"sC" = (
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 4;
+	icon_state = "iron_line";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"sD" = (
+/obj/structure/fluff/railing/corner/north_east,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"sF" = (
+/obj/structure/bars{
+	color = "#755f48";
+	name = "rusted bars"
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"sG" = (
+/obj/machinery/light/rogue/firebowl/church,
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"sH" = (
+/obj/effect/decal/cleanable/blood/old,
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"sN" = (
+/obj/structure/closet/crate/chest/neu_fancy,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"sP" = (
+/obj/structure/fluff/statue/abyssor{
+	pixel_y = 24;
+	plane = -5;
+	name = "statue";
+	desc = "An ancient statue."
+	},
+/obj/machinery/light/rogue/firebowl/church,
+/obj/structure/fluff/walldeco/church/line,
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/churchrough,
+/area/rogue/under/cave/rmh/rdungeon)
+"sS" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"tc" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"te" = (
+/obj/structure/table/optable,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"tn" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e33";
+	gid = "dungeon_e33"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"to" = (
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"tp" = (
+/turf/open/floor/rogue/tile,
+/area/rogue/under/cave/rmh/rdungeon)
+"tr" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_1north";
+	gid = "dungeon_1north";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"tu" = (
+/obj/machinery/light/rogue/wallfire/candle/l,
+/obj/effect/landmark/chest_or_mimic/locked_or_trapped,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"tz" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"tA" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/herb/random,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"tB" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"tG" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"tO" = (
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"tY" = (
+/obj/structure/table/wood/poor,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"ud" = (
+/obj/structure/table/church/end/alt,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"ul" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 8;
+	icon_state = "iron_corner";
+	damage_deflection = 1e+008;
+	name = "tough pipe wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"uo" = (
+/obj/structure/flora/roguegrass/bush/westleach,
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"up" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"uq" = (
+/obj/effect/turf_decal/trimline/yellow/line,
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 1
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ux" = (
+/obj/item/storage/hip/headhook,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"uD" = (
+/mob/living/simple_animal/hostile/rogue/dreamfiend/major/unbound,
+/obj/effect/spawner/lootdrop/silver_weapon_spawner,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"uF" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"uJ" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"uL" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"uN" = (
+/obj/structure/winch{
+	gid = "dungeon_e11";
+	redstone_id = "dungeon_e11";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"uS" = (
+/mob/living/carbon/human/species/skeleton/npc/hard{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"uU" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e13";
+	gid = "dungeon_e13"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"uX" = (
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"vc" = (
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/obj/structure/barricade/crude{
+	color = "#633b3b"
+	},
+/obj/structure/barricade{
+	color = "#633b3b"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"vg" = (
+/obj/structure/arcyne_wall,
+/turf/open/floor/rogue/greenstone/runed,
+/area/rogue/under/cave/rmh/rdungeon)
+"vh" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 6
+	},
+/obj/item/roguegear{
+	pixel_x = -8;
+	pixel_y = 5
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"vq" = (
+/obj/structure/bars/passage/steel{
+	redstone_id = "d2_south";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"vu" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"vx" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"vC" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 6
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"vE" = (
+/obj/item/reagent_containers/glass/bucket,
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"vH" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"vL" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside.";
+	plane = -6;
+	layer = 3
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"vV" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"vY" = (
+/obj/structure/flora/roguegrass,
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"wa" = (
+/obj/structure/bars/pipe{
+	pixel_y = 8
+	},
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"wb" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/obj/structure/fluff/walldeco/church/line{
+	pixel_x = -4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"wd" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008;
+	plane = -4
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"wf" = (
+/obj/structure/winch{
+	gid = "dungeon_boss12";
+	redstone_id = "dungeon_boss12";
+	dir = 2
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"wj" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 8;
+	icon_state = "iron_joint";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wn" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/tools,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"wo" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"ws" = (
+/obj/structure/fluff/walldeco/chains,
+/obj/structure/fluff/nest,
+/mob/living/carbon/human/species/skeleton/npc/no_equipment{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"wt" = (
+/obj/structure/flora/rock/pile/largejungle{
+	color = "#666e64";
+	pixel_x = 0;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"wu" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"wv" = (
+/obj/effect/decal/herringbone,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"wx" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/headless{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"wy" = (
+/obj/structure/chair/wood/rogue/chair5,
+/obj/effect/decal/wood/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/wood/herringbone{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/debris/woody,
+/obj/effect/decal/cleanable/coom,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"wB" = (
+/obj/structure/vine,
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wD" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e3";
+	gid = "dungeon_e3"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wF" = (
+/obj/item/seeds/sunflower,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"wG" = (
+/obj/structure/winch{
+	gid = "dungeon_e23";
+	redstone_id = "dungeon_e23";
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks/platform,
+/area/rogue/under/cave/rmh/rdungeon)
+"wN" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wP" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wU" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line,
+/obj/machinery/light/oldlight,
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"wZ" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"xo" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/water/cleanshallow,
+/area/rogue/under/cave/rmh/rdungeon)
+"xq" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/pyroclasticflowers,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"xr" = (
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"xv" = (
+/obj/structure/closet/crate/roguecloset/inn/south,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/tools,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"xy" = (
+/obj/structure/winch{
+	gid = "dungeon_e33";
+	redstone_id = "dungeon_e33";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"xA" = (
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside."
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"xH" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 10;
+	pixel_y = 0
+	},
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 8;
+	pixel_y = 0
+	},
+/obj/structure/fluff/railing/border/west,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"xL" = (
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"xN" = (
+/obj/structure/flora/roguetree/wise,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"xP" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"xR" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/hotspring_rocks/grassy,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"xS" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"yi" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains5";
+	pixel_x = -5;
+	pixel_y = 6
+	},
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"yj" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/structure/fermentation_keg/random/beer,
+/turf/open/floor/rogue/blocks/stonered/tiny,
+/area/rogue/under/cave/rmh/rdungeon)
+"yn" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"yo" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"yp" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"yr" = (
+/obj/structure{
+	icon = 'modular_rmh/icons/obj/structures/32x64.dmi';
+	icon_state = "pylon";
+	pixel_y = 0;
+	desc = "Somve sort of strange altar.";
+	name = "altar";
+	plane = -3
+	},
+/obj/machinery/light/rogue/firebowl/standing/blue,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"yw" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"yx" = (
+/obj/structure/bed/rogue{
+	dir = 8
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"yy" = (
+/obj/effect/turf_decal/trimline/yellow/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"yB" = (
+/obj/structure/flora/roguegrass{
+	icon = 'icons/obj/flora/largejungleflora.dmi';
+	icon_state = "bush";
+	color = "#4e5742";
+	pixel_x = -16;
+	plane = -3;
+	pixel_y = -11
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"yC" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/rogueweapon/surgery/hemostat,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"yD" = (
+/obj/machinery/light/rogue/wallfire{
+	pixel_y = 32
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"yE" = (
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/obj/structure/arcyne_wall,
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"yG" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside.";
+	plane = -6;
+	layer = 3
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"yH" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"yL" = (
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"yV" = (
+/obj/machinery/light/roguestreet{
+	dir = 2;
+	plane = -3;
+	pixel_x = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"zb" = (
+/obj/effect/decal/cleanable/blood/gibs,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"zc" = (
+/obj/effect/decal/herringbone{
+	dir = 6
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"zk" = (
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/obj/structure/mineral_door/wood/deadbolt{
+	dir = 4;
+	locked = 1;
+	name = "rotting door";
+	color = "#778079"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"zm" = (
+/obj/structure/fluff/railing/corner,
+/obj/item/alch/seeddust,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"zo" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 5
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"zq" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 6
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"zt" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 2;
+	pixel_x = 10
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"zv" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	light_color = "#e03828";
+	color = "#ff210d";
+	light_power = 5;
+	light_outer_range = 7;
+	alpha = 0;
+	layer = 2
+	},
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"zF" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	light_color = "#e03828";
+	color = "#ff210d"
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"zG" = (
+/obj/structure/flora/roguegrass/swampweed,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"zL" = (
+/obj/machinery/light/rogue/wallfire/candle/r,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/weapons,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"zM" = (
+/obj/item/roguegear{
+	pixel_x = -6;
+	pixel_y = 13
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"zO" = (
+/obj/structure/flora/roguegrass,
+/mob/living/simple_animal/hostile/retaliate/rogue/spider/mutated{
+	faction = list("dungeon");
+	aggro_vision_range = 5
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"zW" = (
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"zX" = (
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"zY" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/mossback{
+	faction = list("dungeon");
+	color = "#ff9100";
+	name = "living machine";
+	STACON = 20;
+	STASPD = 5;
+	STASTR = 15
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Aa" = (
+/obj/structure/spider/stickyweb/mirespider,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ad" = (
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ae" = (
+/obj/structure/fluff/traveltile{
+	aportalgoesto = "mainmapmoutain";
+	aportalid = "mapmountain";
+	aallmig = "mapmountain"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ai" = (
+/obj/item/roguegear{
+	pixel_x = -6;
+	pixel_y = 13
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"An" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/obj/effect/decal/herringbone,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Au" = (
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 9999999;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Av" = (
+/obj/structure/fluff/railing/border/west,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 8;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"AH" = (
+/mob/living/carbon/human/species/skeleton/npc/no_equipment{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"AI" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains7";
+	pixel_x = -13
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"AM" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/structure/bars/pipe{
+	pixel_y = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"AO" = (
+/obj/structure/fermentation_keg/coffee,
+/obj/effect/decal/wood/herringbone,
+/obj/effect/decal/cleanable/debris/woody,
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"AS" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = 0
+	},
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"AT" = (
+/turf/closed/wall/mineral/rogue/stone/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"Be" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"Bk" = (
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"Bo" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Br" = (
+/obj/structure/table/wood,
+/obj/item/rogueweapon/hammer/steel,
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Bs" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 1
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"BG" = (
+/obj/structure/fluff/statue/knight,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"BM" = (
+/obj/structure/closet/crate/chest/neu_fancy,
+/obj/effect/spawner/lootdrop/general_loot_mid/x3,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"BN" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"BQ" = (
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ca" = (
+/obj/structure/bars/pipe,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Cb" = (
+/turf/closed/mineral/rogue,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ce" = (
+/obj/structure/fluff/railing/corner/north_east,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ch" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ck" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/elemental/colossus{
+	del_on_deaggro = 9999999;
+	vision_range = 8;
+	obj_damage = 200;
+	STASPD = 10;
+	STALUC = 5;
+	health = 2000;
+	name = "dungeon guardian";
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Cn" = (
+/obj/item/natural/rock/gem,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Cr" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"Cx" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"CF" = (
+/obj/structure/trap/wall_projectile/acidsplash{
+	dir = 1
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"CH" = (
+/obj/structure/table/church/alt,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"CJ" = (
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"CK" = (
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"CM" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"CO" = (
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"CP" = (
+/obj/structure/lever/wall{
+	redstone_id = "d2_south";
+	dir = 8;
+	pixel_y = 32;
+	pixel_x = 8
+	},
+/obj/effect/wisp/prestidigitation{
+	pixel_x = -11;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy.";
+	pixel_y = -1
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"CR" = (
+/obj/structure/mineral_door/wood/donjon{
+	dir = 4;
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/effect/spawner/trap,
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"CS" = (
+/obj/effect/spawner/lootdrop/general_loot_hi/x3,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"CV" = (
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Df" = (
+/obj/structure/barricade{
+	color = "#633b3b"
+	},
+/obj/structure/barricade/crude{
+	color = "#633b3b"
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Dh" = (
+/obj/effect/turf_decal/trimline/yellow/filled/corner,
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Dq" = (
+/obj/structure/fluff/railing/border/east,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Du" = (
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"Dx" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/wall/mineral/rogue/stone/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"DE" = (
+/obj/structure/flora/roguegrass,
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/sprite{
+	STASPD = 20;
+	STAPER = 5;
+	STALUC = 5;
+	STAINT = 5;
+	faction = list("dungeon");
+	name = "dungeon sprite";
+	del_on_deaggro = 999999
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"DG" = (
+/obj/machinery/anvil,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"DL" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/wall/mineral/rogue/stone/window/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"DR" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"DW" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"DY" = (
+/obj/structure/lever/wall{
+	redstone_id = "d3_west";
+	dir = 8;
+	pixel_y = 32;
+	pixel_x = 8
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ea" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/pyroclasticflowers,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Eg" = (
+/obj/structure/winch{
+	gid = "dungeon_boss11";
+	redstone_id = "dungeon_boss11";
+	dir = 2
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Eh" = (
+/obj/structure/bars/pipe{
+	dir = 10
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/effect/particle_effect/smoke{
+	lifetime = 144000;
+	pixel_y = -23
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"El" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	dir = 9
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Eo" = (
+/obj/item/reagent_containers/eoran_seed,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ep" = (
+/obj/structure/flora/roguegrass/bush/westleach,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Eq" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/obj/structure/table/church{
+	icon_state = "stonetable_small"
+	},
+/obj/item/reagent_containers/glass/bottle/claybottle/water{
+	pixel_y = 15;
+	pixel_x = -5
+	},
+/obj/item/reagent_containers/glass/bottle/claybottle/water{
+	pixel_y = 9;
+	pixel_x = 4
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Er" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 9
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ev" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"EC" = (
+/obj/structure/closet/crate/chest/old_crate,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"EG" = (
+/turf/open/floor/rogue/greenstone/glyph4,
+/area/rogue/under/cave/rmh/rdungeon)
+"EJ" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/obj/structure/fluff/walldeco/church/line{
+	dir = 1;
+	pixel_x = 4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"EW" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/bigrat/gethsmane,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"EZ" = (
+/obj/structure/flora/roguetree/stump/log,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fc" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 9
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ff" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Fh" = (
+/obj/structure/stairs/stone{
+	dir = 8
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fi" = (
+/obj/structure/spider/stickyweb,
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Fp" = (
+/obj/effect/spawner/lootdrop/general_loot_mid,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fr" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/obj/structure/table/church{
+	icon_state = "stonetable_small"
+	},
+/obj/item/reagent_containers/glass/bottle/rogue/strongmanapot{
+	pixel_y = 8;
+	pixel_x = 4
+	},
+/turf/open/floor/rogue/blocks/newstone/alt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fs" = (
+/obj/structure/bars/grille,
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ft" = (
+/obj/structure/bars/pipe{
+	dir = 4;
+	pixel_x = -9
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fu" = (
+/obj/structure/bars/pipe{
+	dir = 2
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Fw" = (
+/obj/structure/flora/roguegrass/water/reeds,
+/turf/open/water/cleanshallow,
+/area/rogue/under/cave/rmh/rdungeon)
+"FC" = (
+/obj/structure/gate{
+	gid = "dungeon_boss21";
+	redstone_id = "dungeon_boss21";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"FG" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"FU" = (
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"FW" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Gk" = (
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Gn" = (
+/obj/structure/lever/wall{
+	pixel_x = 17;
+	pixel_y = -5;
+	redstone_id = "frankenstein"
+	},
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"Go" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/bigrat/gethsmane,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"Gp" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/obj/structure/vine,
+/turf/closed/mineral/rogue/bedrock{
+	name = "solid rock"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Gs" = (
+/obj/structure/table/wood,
+/obj/item/candle/gold/lit{
+	pixel_x = -10;
+	pixel_y = 10
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/obj/item/roguegear{
+	pixel_x = 6;
+	pixel_y = 12
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Gv" = (
+/obj/structure/fermentation_keg/random/beer,
+/turf/open/floor/rogue/blocks/stonered,
+/area/rogue/under/cave/rmh/rdungeon)
+"Gw" = (
+/obj/structure/table/wood/long_table/mid,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Gy" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"GC" = (
+/obj/structure/table/wood/poor/alt_alt,
+/obj/item/roguebin/water/gross{
+	pixel_y = 7;
+	pixel_x = -4
+	},
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = 32
+	},
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"GL" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"GQ" = (
+/obj/structure/fluff/nest,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ha" = (
+/obj/structure/mirror{
+	pixel_y = -32;
+	icon_state = "mirror1"
+	},
+/mob/living/simple_animal/hostile/rogue/dragger{
+	faction = list("dungeon")
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"He" = (
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ho" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Hr" = (
+/obj/machinery/light/rogue/firebowl/off,
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"Hz" = (
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"HB" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"HC" = (
+/obj/structure/bars/passage/steel{
+	redstone_id = "d2_north";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"HF" = (
+/obj/item/maneaterseed,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"HM" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/rogueweapon/stoneaxe/oath,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"HN" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguetree/stump/log,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"HQ" = (
+/obj/structure/fluff/nest,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"HS" = (
+/turf/open/floor/rogue/volcanic,
+/area/rogue/under/cave/rmh/rdungeon)
+"HT" = (
+/obj/structure/bed/rogue/shit,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"HX" = (
+/obj/structure/stonecoffin,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ic" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 2;
+	pixel_y = 10
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ij" = (
+/obj/effect/decal/herringbone{
+	dir = 6
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Il" = (
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Iq" = (
+/obj/structure/mirror/fancy{
+	pixel_y = 0;
+	pixel_x = 32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Is" = (
+/obj/structure/flora/roguegrass/water/reeds,
+/turf/open/water/swamp,
+/area/rogue/under/cave/rmh/rdungeon)
+"Iw" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/trap/stun,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Iz" = (
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"IB" = (
+/obj/structure/mineral_door/wood/donjon/stone{
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"IL" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"IM" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/dryad{
+	del_on_deaggro = 999999;
+	faction = list("dungeon");
+	name = "dungeon dryad";
+	STASTR = 5
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"IP" = (
+/obj/structure/mineral_door/wood/donjon{
+	dir = 8;
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/effect/spawner/trap,
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"IV" = (
+/obj/structure/fluff/nest,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"IX" = (
+/obj/structure/bars/pipe{
+	pixel_y = 9;
+	dir = 6;
+	pixel_x = -9
+	},
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jc" = (
+/obj/machinery/light/rogue/forge,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jd" = (
+/obj/item/natural/wood/plank,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jj" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jm" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 2;
+	pixel_y = 10
+	},
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jp" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Js" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"Jt" = (
+/obj/structure/fluff/walldeco/church/line,
+/obj/structure/fluff/walldeco/church/line{
+	dir = 8
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ju" = (
+/obj/structure/winch{
+	gid = "dungeon_1west";
+	redstone_id = "dungeon_1west";
+	dir = 4
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"JA" = (
+/obj/structure/table/vtable,
+/obj/item/natural/feather{
+	pixel_x = 8
+	},
+/obj/item/reagent_containers/glass/cup/skull{
+	pixel_x = -5;
+	pixel_y = 2
+	},
+/obj/effect/decal/wood/herringbone,
+/obj/effect/decal/wood/herringbone{
+	dir = 8
+	},
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"JB" = (
+/obj/item/bodypart/head/goblin,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"JC" = (
+/obj/structure/bars/pipe{
+	dir = 2
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"JI" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/hotspring_rocks/grassy,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"JQ" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Kd" = (
+/obj/structure/mineral_door/wood/donjon{
+	dir = 2;
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/structure/bars/passage/steel{
+	redstone_id = "d1_north";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Kf" = (
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ki" = (
+/obj/effect/spawner/lootdrop/general_loot_hi,
+/turf/open/floor/rogue/volcanic,
+/area/rogue/under/cave/rmh/rdungeon)
+"Kt" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains8"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"Kw" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e12";
+	gid = "dungeon_e12"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"KA" = (
+/obj/effect/decal/cleanable/debris/woody,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"KH" = (
+/obj/structure/fluff/walldeco/chains,
+/obj/structure/fluff/nest,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"KJ" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"KR" = (
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"La" = (
+/turf/open/floor/rogue/greenstone/glyph3,
+/area/rogue/under/cave/rmh/rdungeon)
+"Lh" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	desc = "A small, fiery ball of light made up of mystical energy."
+	},
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Lj" = (
+/obj/structure/bars/pipe{
+	dir = 1;
+	pixel_x = 9
+	},
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ls" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Lu" = (
+/obj/structure/fluff/railing/border/east,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Lv" = (
+/obj/structure/flora/rogueshroom/happy/random,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"Lw" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/peasant_weapon_spawner,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"LF" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"LK" = (
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/remains/human,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"LL" = (
+/obj/structure/closet/crate/drawer{
+	pixel_x = -6
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"LR" = (
+/obj/structure/flora/roguetree/pine{
+	icon_state = "pine4"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"LT" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/obj/structure/fluff/walldeco/church/line{
+	dir = 1;
+	pixel_x = -4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"LX" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/skull,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ma" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 6;
+	pixel_y = 0
+	},
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_y = 0
+	},
+/obj/structure/fluff/railing/border/east,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mh" = (
+/obj/structure/flora/newtree,
+/obj/structure/vine,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mi" = (
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mk" = (
+/obj/structure/gate{
+	gid = "dungeon_boss1";
+	redstone_id = "dungeon_boss1"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ml" = (
+/obj/structure/flora/roguetree/burnt,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mo" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mp" = (
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/obj/structure/mineral_door/wood/deadbolt{
+	dir = 2;
+	locked = 1;
+	name = "rotting door";
+	color = "#778079"
+	},
+/obj/effect/spawner/trap,
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mr" = (
+/turf/open/water/swamp,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mt" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 10
+	},
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"Mu" = (
+/obj/structure/table/optable,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Mx" = (
+/turf/open/floor/rogue/churchmarble,
+/area/rogue/under/cave/rmh/rdungeon)
+"ME" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/turf/open/water/bath/pool,
+/area/rogue/under/cave/rmh/rdungeon)
+"MF" = (
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside.";
+	plane = -7
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"MH" = (
+/obj/structure/flora/rock,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"MI" = (
+/obj/structure/winch{
+	gid = "dungeon_e13";
+	redstone_id = "dungeon_e13";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"MO" = (
+/obj/structure/gate{
+	gid = "dungeon_boss22";
+	redstone_id = "dungeon_boss22";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"MR" = (
+/obj/item/seeds/pipeweed,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"MU" = (
+/obj/structure/mineral_door/bars{
+	locked = 1;
+	name = "Cell Door"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"MX" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"MY" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 2;
+	alpha = 127;
+	pixel_y = 9
+	},
+/obj/structure/bars/grille,
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"MZ" = (
+/obj/structure/table/church,
+/obj/item/roguegem/random,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Na" = (
+/obj/item/seeds/fyritius,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nb" = (
+/obj/structure/table/wood/long_table/right,
+/obj/item/candle/candlestick/gold/single{
+	pixel_y = 11
+	},
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nc" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/water/reeds,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nf" = (
+/obj/structure/bookcase/random,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc{
+	loot = list(/obj/item/enchantmentscroll/holding = 1, /obj/item/enchantmentscroll/light = 1, /obj/item/enchantmentscroll/mining = 1, /obj/item/enchantmentscroll/nightvision = 1, /obj/item/enchantmentscroll/smithing = 1, /obj/item/enchantmentscroll/woodcut = 1, /obj/item/enchantmentscroll/xylix = 1, /obj/item/book_crafting_kit = 1, /obj/item/spellbook_unfinished = 1, /obj/item/paper = 1, /obj/item/paper/scroll = 1, /obj/item/natural/feather = 1, /obj/item/lockpick = 1, /obj/item/enchantmentscroll/climbing = 1)
+	},
+/turf/closed/wall/mineral/rogue/decostone/fluffstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ng" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	light_color = "#e03828";
+	color = "#ff210d";
+	light_power = 5;
+	light_outer_range = 7;
+	alpha = 0;
+	layer = 2
+	},
+/obj/structure{
+	icon = 'modular_rmh/icons/obj/structures/32x48.dmi';
+	icon_state = "altar";
+	pixel_y = -2;
+	desc = "Somve sort of strange altar.";
+	name = "altar"
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nj" = (
+/obj/structure/fermentation_keg,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nk" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/structure/bookcase/random,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ns" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nu" = (
+/obj/structure/bars/passage/steel{
+	redstone_id = "d3_east";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Nz" = (
+/turf/open/floor/rogue/blocks/stonered/tiny,
+/area/rogue/under/cave/rmh/rdungeon)
+"NB" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 6
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"NC" = (
+/obj/structure/flora/rogueflora/nettles,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"ND" = (
+/obj/structure/bed/rogue,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"NH" = (
+/obj/structure/fluff/railing/corner,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 8;
+	pixel_y = 0
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"NJ" = (
+/obj/structure/flora/roguegrass/herb/rosa{
+	pixel_x = -5;
+	pixel_y = 7
+	},
+/obj/structure/flora/roguegrass/herb/rosa{
+	pixel_x = 8;
+	pixel_y = 4
+	},
+/obj/structure/flora/roguegrass/herb/rosa{
+	pixel_x = -5;
+	pixel_y = -5
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"NK" = (
+/obj/structure/flora/roguetree/pine{
+	pixel_y = 16
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"NN" = (
+/obj/structure/lever/wall{
+	redstone_id = "d3_east";
+	dir = 8;
+	pixel_y = 32;
+	pixel_x = 10
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"NP" = (
+/obj/effect/turf_decal/trimline/yellow/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"NU" = (
+/obj/structure/flora/roguegrass{
+	icon = 'icons/obj/flora/jungleflora.dmi';
+	icon_state = "bushb";
+	color = "#666e64"
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"NV" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Oc" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/cheap_tableware_spawner,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"Oh" = (
+/obj/structure/closet/crate/drawer,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ok" = (
+/obj/structure/bars/pipe{
+	pixel_x = 27;
+	dir = 9
+	},
+/obj/structure/bars/pipe{
+	dir = 2;
+	alpha = 127;
+	pixel_y = 7
+	},
+/turf/open/water/sewer,
+/area/rogue/under/cave/rmh/rdungeon)
+"Om" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/closed,
+/area/rogue/under/cave/rmh/rdungeon)
+"On" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/watcher{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal watcher"
+	},
+/turf/open/floor/rogue/churchbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"Oq" = (
+/obj/item/alch/seeddust,
+/obj/machinery/light/rogue/firebowl/off,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ot" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/peasant_weapon_spawner,
+/obj/effect/spawner/lootdrop/iron_copper_weapon_spawner,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ow" = (
+/obj/structure/bars/pipe,
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"OB" = (
+/obj/structure/stairs/stone,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"OF" = (
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"OL" = (
+/obj/structure/fluff/traveltile{
+	aportalgoesto = "mainmapforest";
+	aportalid = "mapforest"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ON" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 10;
+	pixel_x = 10
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"OT" = (
+/obj/structure/closet/crate/roguecloset/inn/south,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"OW" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"OY" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/structure/table/church/end,
+/obj/item/storage/hip/headhook/bronze{
+	pixel_y = 3
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Pa" = (
+/obj/structure/flora/newleaf,
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/dryad{
+	del_on_deaggro = 999999;
+	faction = list("dungeon");
+	name = "dungeon dryad";
+	STASTR = 5
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ph" = (
+/obj/structure/fluff/railing/border/west,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Pi" = (
+/obj/structure/flora/roguegrass/herb/random,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Pk" = (
+/obj/machinery/light/rogue/smelter/great{
+	color = "#485775";
+	desc = "";
+	name = "ancyent engine"
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Pp" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	dir = 1
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ps" = (
+/obj/structure/lever/wall{
+	redstone_id = "d1_north";
+	dir = 1;
+	pixel_y = 30;
+	plane = -4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Pu" = (
+/obj/structure/well/poisoned{
+	color = null;
+	name = "well"
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Pv" = (
+/obj/structure/bars/pipe,
+/obj/structure/bars/pipe{
+	dir = 6;
+	pixel_x = 1
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"PB" = (
+/obj/structure/stairs/stone{
+	dir = 4
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"PG" = (
+/obj/machinery/light/rogue/wallfire/candle/r,
+/turf/open/floor/rogue/cobble,
+/area/rogue/under/cave/rmh/rdungeon)
+"PI" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/obj/structure/trap/stun,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"PJ" = (
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"PM" = (
+/obj/structure/bars/pipe{
+	dir = 5;
+	pixel_y = -17;
+	pixel_x = -9
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"PP" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 4;
+	icon_state = "iron_joint";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"PQ" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/mineral/rogue/bedrock{
+	name = "solid rock"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"PR" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains3"
+	},
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"PS" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"PU" = (
+/obj/structure/flora/newtree,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"PY" = (
+/obj/structure/flora/rogueflora/wormwood,
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Qb" = (
+/obj/structure/flora/roguetree/burnt,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"Qd" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Qm" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Qv" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/peasant_weapon_spawner,
+/obj/effect/spawner/lootdrop/iron_copper_weapon_spawner,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"QC" = (
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe{
+	dir = 10
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"QO" = (
+/obj/effect/spawner/lootdrop/roguetown/sewers,
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"QP" = (
+/obj/structure/mirror/fancy{
+	pixel_y = 0;
+	pixel_x = 32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"QW" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"QX" = (
+/obj/structure/flora/roguetree/stump,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ra" = (
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rb" = (
+/obj/machinery/light/roguestreet/midlamp{
+	plane = -3
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rc" = (
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ri" = (
+/obj/structure/mirror{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/limb,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rj" = (
+/obj/structure/fluff/walldeco/med4{
+	pixel_x = -32
+	},
+/obj/effect/decal/cleanable/greenglow{
+	name = "alchemycal spill";
+	desc = "Just looking at it makes you feel strangely warm inside."
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rl" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rm" = (
+/obj/structure/flora/rogueflora/wormwood,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rq" = (
+/obj/structure/mirror{
+	pixel_y = -32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rr" = (
+/obj/structure/table/wood/poor,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rt" = (
+/obj/structure/fluff/railing/corner/south_east,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 5;
+	pixel_x = 10;
+	pixel_y = -17
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Rv" = (
+/obj/structure/winch{
+	gid = "dungeon_e3";
+	redstone_id = "dungeon_e3";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ry" = (
+/turf/open/floor/rogue/greenstone/glyph5,
+/area/rogue/under/cave/rmh/rdungeon)
+"RC" = (
+/obj/structure/fluff/railing/border/west,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 10;
+	pixel_y = 10
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"RI" = (
+/obj/structure/table/wood/poor/alt_alt,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"RP" = (
+/obj/effect/turf_decal/trimline/yellow/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/yellow/line{
+	dir = 10
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"RQ" = (
+/obj/structure/bed/rogue,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"RV" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 6
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"RX" = (
+/obj/structure/bookcase/random,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"RZ" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/herb/random,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Sa" = (
+/obj/structure/bars/pipe{
+	pixel_y = 9;
+	dir = 10;
+	pixel_x = 9
+	},
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Sg" = (
+/obj/structure/bars/pipe{
+	dir = 4;
+	pixel_x = -9
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"Sm" = (
+/obj/structure/flora/roguegrass/bush/wall/tall{
+	plane = -3
+	},
+/turf/closed/mineral/rogue/bedrock{
+	name = "solid rock"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"So" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"Sp" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e32";
+	gid = "dungeon_e32"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Sv" = (
+/obj/effect/wisp/prestidigitation{
+	pixel_x = 0;
+	name = "Will-o'-the-wisp";
+	light_color = "#e03828";
+	color = "#ff210d";
+	light_power = 5;
+	light_outer_range = 7;
+	alpha = 0;
+	layer = 2
+	},
+/obj/structure{
+	icon = 'modular_rmh/icons/obj/structures/32x48.dmi';
+	icon_state = "altar";
+	pixel_y = -6;
+	desc = "Somve sort of strange altar.";
+	name = "altar"
+	},
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"SB" = (
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 1e+031;
+	mouse_opacity = 0;
+	name = "mist";
+	density = 0;
+	opacity = 1
+	},
+/obj/structure/bars/passage/steel{
+	redstone_id = "d1_south";
+	alpha = 0;
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"SC" = (
+/obj/structure/fluff/walldeco/med6{
+	pixel_y = 32
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"SD" = (
+/turf/open/floor/rogue/greenstone/glyph6,
+/area/rogue/under/cave/rmh/rdungeon)
+"SE" = (
+/obj/structure/vine{
+	icon_state = "Light2d"
+	},
+/turf/closed/wall/mineral/rogue/stone/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"SG" = (
+/obj/structure/closet/crate/chest/neu_fancy,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"SN" = (
+/obj/structure/bars/tough{
+	icon = 'icons/effects/effects.dmi';
+	icon_state = "smoke";
+	attacked_sound = list();
+	damage_deflection = 1e+031;
+	max_integrity = 9999999;
+	mouse_opacity = 0;
+	opacity = 1;
+	name = "fog"
+	},
+/turf/closed,
+/area/rogue/under/cave/rmh/rdungeon)
+"SP" = (
+/obj/structure/bars/pipe,
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"SR" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 4
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 6
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"SV" = (
+/obj/structure/bars/pipe{
+	dir = 1;
+	pixel_x = 9
+	},
+/mob/living/simple_animal/hostile/retaliate/rogue/bigrat/gethsmane,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"SW" = (
+/obj/structure/flora/roguegrass/herb/random,
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"Tc" = (
+/obj/structure/spider/stickyweb/mirespider,
+/obj/structure/table/church{
+	icon_state = "stonetable_small"
+	},
+/obj/item/reagent_containers/glass/bottle/waterskin/purifier,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Td" = (
+/obj/structure/bed/rogue/shit,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"Tm" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/obj/effect/decal/herringbone{
+	dir = 1
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Tu" = (
+/obj/item/skull,
+/obj/item/skull{
+	pixel_x = 8;
+	pixel_y = -2
+	},
+/obj/item/skull{
+	pixel_x = 4;
+	pixel_y = 3
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Tw" = (
+/obj/item/seeds/fyritius,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"TA" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 2;
+	icon_state = "iron_joint";
+	name = "tough pipe line";
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"TJ" = (
+/obj/machinery/light/rogue/firebowl/off,
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"TK" = (
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"TM" = (
+/obj/structure/toilet{
+	pixel_y = 5;
+	pixel_x = 1
+	},
+/obj/structure/table/wood/poor/alt_alt,
+/turf/open/floor/rogue/blocks/paving,
+/area/rogue/under/cave/rmh/rdungeon)
+"TN" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 2;
+	icon_state = "iron_corner";
+	damage_deflection = 1e+008;
+	name = "tough pipe wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"TQ" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10
+	},
+/turf/open/floor/rogue/greenstone/runed,
+/area/rogue/under/cave/rmh/rdungeon)
+"TV" = (
+/obj/structure/winch{
+	gid = "dungeon_e22";
+	redstone_id = "dungeon_e22";
+	dir = 4
+	},
+/turf/open/floor/rogue/blocks/platform,
+/area/rogue/under/cave/rmh/rdungeon)
+"Uc" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_1east";
+	gid = "dungeon_1east";
+	damage_deflection = 1e+031
+	},
+/obj/structure/bars/pipe{
+	pixel_y = 8;
+	plane = -6
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ud" = (
+/obj/structure/bars/pipe,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Uf" = (
+/obj/item/roguebin/water/gross,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Un" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ut" = (
+/obj/effect/decal/cleanable/blood/gibs/down,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Uv" = (
+/obj/structure/bars/pipe{
+	dir = 6;
+	pixel_x = -9;
+	pixel_y = 17
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"UA" = (
+/obj/item/bodypart/head,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"UC" = (
+/obj/structure/flora/roguetree/stump{
+	pixel_x = -8
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"UN" = (
+/obj/structure/closet/crate/chest/wicker,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"UV" = (
+/turf/closed/mineral/rogue/bedrock{
+	name = "solid rock"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"UW" = (
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"UY" = (
+/obj/structure/flora/roguegrass/bush/westleach,
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vc" = (
+/obj/effect/landmark/chest_or_mimic/locked_or_trapped,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vd" = (
+/obj/structure/table/wood,
+/obj/item/roguegear{
+	pixel_x = 6;
+	pixel_y = 12
+	},
+/obj/item/candle/gold/lit{
+	pixel_x = -10;
+	pixel_y = 10
+	},
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vf" = (
+/obj/structure/winch{
+	gid = "dungeon_boss22";
+	redstone_id = "dungeon_boss22";
+	dir = 4
+	},
+/turf/closed/wall/mineral/rogue/decostone/cand{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+007;
+	name = "heavy decorated stone wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Vh" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vi" = (
+/obj/structure/mirror/fancy{
+	pixel_y = 0;
+	pixel_x = -32
+	},
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vk" = (
+/obj/structure/closet/crate/chest/neu_fancy,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/obj/effect/spawner/lootdrop/general_loot_mid/x3,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vo" = (
+/obj/structure/winch{
+	gid = "dungeon_boss1";
+	redstone_id = "dungeon_boss1";
+	dir = 2
+	},
+/turf/open/floor/rogue/churchmarble,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vp" = (
+/obj/structure/bed/rogue/shit,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/twig,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vw" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vx" = (
+/obj/structure/gate{
+	gid = "dungeon_boss12";
+	redstone_id = "dungeon_boss12";
+	damage_deflection = 1e+031
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Vz" = (
+/obj/structure/fluff/walldeco/chains{
+	icon_state = "chains5";
+	pixel_x = -5;
+	pixel_y = 6
+	},
+/turf/open/floor/rogue/tile/bfloorz,
+/area/rogue/under/cave/rmh/rdungeon)
+"VD" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass/water/reeds,
+/turf/open/water/swamp,
+/area/rogue/under/cave/rmh/rdungeon)
+"VE" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"VP" = (
+/obj/structure/flora/newleaf,
+/turf/open/floor/rogue/dirt,
+/area/rogue/under/cave/rmh/rdungeon)
+"VS" = (
+/obj/item/maneaterseed,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"VT" = (
+/obj/machinery/light/rogue/wallfire/candle/l,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"VW" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 4;
+	icon_state = "iron_corner";
+	damage_deflection = 1e+008;
+	name = "tough pipe wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Wl" = (
+/obj/structure/fluff/clockwork/fallen_armor{
+	color = "#6e6e6e";
+	name = "broken construct"
+	},
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Wr" = (
+/obj/structure/flora/roguegrass,
+/mob/living/simple_animal/hostile/retaliate/rogue/fae/sprite{
+	STASPD = 20;
+	STAPER = 5;
+	STALUC = 5;
+	STAINT = 5;
+	faction = list("dungeon");
+	name = "dungeon sprite";
+	del_on_deaggro = 999999
+	},
+/turf/open/floor/rogue/grassyel,
+/area/rogue/under/cave/rmh/rdungeon)
+"Ww" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/pipe,
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Wx" = (
+/obj/structure/gate/bars{
+	redstone_id = "dungeon_e23";
+	gid = "dungeon_e23"
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Wy" = (
+/mob/living/simple_animal/hostile/retaliate/rogue/infernal/imp{
+	del_on_deaggro = 599400;
+	faction = list("dungeon");
+	name = "dungeon infernal imp";
+	vision_range = 10;
+	aggro_vision_range = 10
+	},
+/turf/open/floor/rogue/greenstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"WA" = (
+/obj/structure/flora/roguegrass,
+/obj/structure/flora/roguegrass{
+	icon = 'icons/obj/flora/largejungleflora.dmi';
+	icon_state = "bush";
+	color = "#4e5742";
+	pixel_x = -16;
+	plane = -3;
+	pixel_y = -11
+	},
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"WC" = (
+/obj/structure/fluff/walldeco/church/line{
+	dir = 4
+	},
+/turf/open/floor/rogue/church,
+/area/rogue/under/cave/rmh/rdungeon)
+"WM" = (
+/obj/structure/table/wood/long_table,
+/turf/open/floor/rogue/tile/brownbrick,
+/area/rogue/under/cave/rmh/rdungeon)
+"WR" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line,
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"WX" = (
+/obj/item/natural/stone,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xe" = (
+/obj/structure/mineral_door/wood/donjon{
+	dir = 2;
+	locked = 1;
+	masterkey = 0;
+	smashable = 0;
+	lock_strength = 500
+	},
+/obj/effect/spawner/trap,
+/obj/structure/bars/passage{
+	density = 0;
+	icon_state = "passage1"
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xf" = (
+/obj/structure/flora/roguegrass/water/reeds,
+/obj/structure/trap/stun,
+/turf/open/water/swamp,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xi" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 1
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Xl" = (
+/obj/machinery/light/rogue/wallfire/candle/r,
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xn" = (
+/obj/effect/decal/herringbone{
+	dir = 4
+	},
+/obj/effect/decal/herringbone,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xo" = (
+/obj/structure/bars/grille{
+	max_integrity = 2000;
+	damage_deflection = 1e+008
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "lava";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "lava";
+	light_outer_range = 4;
+	light_color = "#C48A18"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Xp" = (
+/obj/structure/bars/pipe{
+	dir = 5;
+	pixel_y = 0;
+	pixel_x = -19
+	},
+/turf/open/floor/rogue/metal/barograte,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xt" = (
+/obj/item/natural/rock,
+/turf/open/floor/rogue/dirt/road,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xu" = (
+/obj/structure/rack/rogue,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/materials,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/misc,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/money,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Xz" = (
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"XD" = (
+/obj/structure/stonecoffin,
+/turf/open/floor/rogue/hexstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"XF" = (
+/obj/structure/flora/hotspring_rocks/grassy,
+/turf/open/floor/rogue/grass,
+/area/rogue/under/cave/rmh/rdungeon)
+"XH" = (
+/obj/effect/decal/herringbone{
+	dir = 8
+	},
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"XM" = (
+/obj/effect/landmark/chest_or_mimic/locked_or_trapped,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"XP" = (
+/obj/structure/bookcase/random,
+/turf/closed/wall/mineral/rogue/decostone/fluffstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"XW" = (
+/obj/structure/bars/tough{
+	damage_deflection = 1e+008;
+	max_integrity = 1e+008;
+	name = "tough bars"
+	},
+/obj/structure/bars/pipe{
+	pixel_y = 8
+	},
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"XX" = (
+/obj/structure/bars/pipe{
+	dir = 4
+	},
+/obj/structure/bars/grille{
+	resistance_flags = 115;
+	plane = -6
+	},
+/obj/structure/bars/pipe,
+/obj/structure/bars/pipe{
+	dir = 8
+	},
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Yb" = (
+/obj/structure/bars/pipe{
+	dir = 9;
+	pixel_x = 9
+	},
+/obj/structure/spider/stickyweb,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Ye" = (
+/obj/effect/turf_decal/trimline/yellow/filled/line{
+	dir = 5
+	},
+/obj/structure/bars/pipe{
+	pixel_x = 8;
+	dir = 4
+	},
+/turf/open/floor/rogue/concrete{
+	color = "#3b444b"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Yg" = (
+/obj/structure/vine,
+/turf/closed/wall/mineral/rogue/stone/moss/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"Yk" = (
+/obj/structure/fluff/walldeco/chains{
+	plane = -3;
+	pixel_x = 9;
+	pixel_y = 6
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 8
+	},
+/turf/open/floor/rogue/metal,
+/area/rogue/under/cave/rmh/rdungeon)
+"Yp" = (
+/obj/effect/spawner/lootdrop/roguetown/dungeon/tools,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Yr" = (
+/obj/effect/decal/herringbone{
+	dir = 5
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Yu" = (
+/obj/machinery/light/rogue/wallfire/candle{
+	pixel_y = -32
+	},
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Yv" = (
+/obj/machinery/light/small/broken{
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"Yx" = (
+/obj/structure/portal{
+	pixel_x = -16
+	},
+/turf/closed/wall/mineral/rogue/stone/unbreakable,
+/area/rogue/under/cave/rmh/rdungeon)
+"YC" = (
+/obj/structure/closet/crate/chest/old_crate,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/food,
+/turf/open/floor/rogue/blocks/stonered/tiny,
+/area/rogue/under/cave/rmh/rdungeon)
+"YI" = (
+/turf/open/floor/rogue/greenstone/runed,
+/area/rogue/under/cave/rmh/rdungeon)
+"YP" = (
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 4;
+	pixel_x = -9;
+	alpha = 127
+	},
+/obj/structure/bars/grille,
+/turf/open/floor/rogue/greenstone/runed{
+	icon_state = "acid";
+	icon = 'icons/turf/roguefloor.dmi';
+	name = "alchemical waste";
+	light_power = 2;
+	light_color = "#74b05a";
+	light_outer_range = 3
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"YS" = (
+/turf/closed/wall/mineral/rogue/pipe{
+	dir = 1;
+	icon_state = "iron_corner";
+	damage_deflection = 1e+008;
+	name = "tough pipe wall"
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"YV" = (
+/turf/open/floor/rogue/blocks/stonered,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zc" = (
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zg" = (
+/obj/structure/fermentation_keg/coffee,
+/obj/effect/decal/wood/herringbone{
+	dir = 1
+	},
+/obj/effect/decal/wood/herringbone{
+	dir = 4
+	},
+/turf/open/floor/rogue/wood/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zh" = (
+/obj/machinery/light/rogue/wallfire/candle,
+/obj/structure/rack/rogue/shelf/biggest,
+/obj/item/natural/cloth,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zi" = (
+/obj/structure/fermentation_keg/random/beer,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zj" = (
+/obj/machinery/light/rogue/wallfire/candle/l,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zl" = (
+/obj/structure/mannequin,
+/obj/effect/spawner/lootdrop/light_armor_spawner,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/clothing,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"Zr" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/rogueweapon/surgery/hammer,
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"Zs" = (
+/obj/structure/closet/crate/chest/neu_fancy,
+/obj/effect/spawner/lootdrop/cheap_jewelry_spawner,
+/obj/effect/spawner/lootdrop/valuable_jewelry_spawner,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/obj/item/roguegear,
+/turf/open/floor/rogue/herringbone,
+/area/rogue/under/cave/rmh/rdungeon)
+"ZB" = (
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+"ZF" = (
+/turf/closed/wall/shroud{
+	name = "dense roots";
+	desc = "Very tough and moist roots covered with some kind of goo.";
+	max_integrity = 1e+008;
+	damage_deflection = 1e+008
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ZL" = (
+/obj/structure/winch{
+	gid = "dungeon_e12";
+	redstone_id = "dungeon_e12";
+	dir = 4
+	},
+/turf/open/floor/rogue/metal/barograte/open,
+/area/rogue/under/cave/rmh/rdungeon)
+"ZM" = (
+/obj/structure/table/wood,
+/obj/effect/spawner/lootdrop/roguetown/dungeon/medical,
+/obj/item/roguegear{
+	pixel_x = 6;
+	pixel_y = 12
+	},
+/obj/item/roguegear{
+	pixel_x = -5;
+	pixel_y = 13
+	},
+/turf/open/floor/rogue/metal{
+	dir = 4
+	},
+/area/rogue/under/cave/rmh/rdungeon)
+"ZS" = (
+/obj/item/reagent_containers/glass/bucket,
+/turf/open/floor/rogue/blocks,
+/area/rogue/under/cave/rmh/rdungeon)
+"ZV" = (
+/obj/structure/lever/wall{
+	redstone_id = "d2_north";
+	dir = 4
+	},
+/turf/open/floor/rogue/naturalstone,
+/area/rogue/under/cave/rmh/rdungeon)
+"ZZ" = (
+/obj/structure/fluff/railing/corner/south_west,
+/obj/structure/bars/pipe{
+	plane = -6;
+	dir = 9;
+	pixel_x = -8;
+	pixel_y = -17
+	},
+/turf/open/floor/rogue/concrete,
+/area/rogue/under/cave/rmh/rdungeon)
+
+(1,1,1) = {"
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+nI
+SN
+SN
+SN
+nI
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+ul
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+VW
+lt
+lt
+lt
+lt
+lt
+"}
+(2,1,1) = {"
+lt
+nO
+ZB
+Fs
+ZB
+ZB
+ig
+YI
+Wy
+YI
+ig
+nO
+CV
+ZB
+ig
+YI
+jN
+YI
+lt
+lt
+lt
+yV
+lt
+lt
+CV
+Ae
+CV
+lt
+lt
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+gU
+"}
+(3,1,1) = {"
+lt
+CV
+CV
+Yv
+rX
+ZB
+ig
+jN
+fd
+jN
+ig
+ZB
+CV
+ZB
+kq
+Wy
+fd
+jN
+lt
+lt
+ZB
+ZB
+ZB
+Kw
+ZB
+ZB
+ZB
+lt
+lt
+Hz
+Yv
+CV
+CV
+zM
+CV
+CV
+CV
+Vw
+CV
+CV
+CV
+Yv
+Hz
+Hz
+Hz
+Hz
+Hz
+Hz
+YS
+nI
+PP
+"}
+(4,1,1) = {"
+lt
+ZB
+ZB
+CV
+ZB
+ZB
+kq
+YI
+jN
+YI
+ig
+rX
+CV
+rX
+ig
+YI
+jN
+YI
+lt
+Rb
+ZB
+ZL
+ZB
+CV
+ZB
+ZL
+ZB
+Rb
+lt
+xA
+CV
+Hz
+xA
+Dh
+QW
+QW
+QW
+QW
+QW
+yy
+Hz
+CV
+CV
+Vw
+CV
+CV
+Yv
+CV
+sF
+eG
+gU
+"}
+(5,1,1) = {"
+lt
+ZB
+ZB
+CV
+ZB
+nO
+ig
+ig
+kq
+ig
+ig
+ZB
+CV
+ZB
+ig
+ig
+kq
+ig
+lt
+lt
+ZB
+ZB
+ZB
+CV
+ZB
+ZB
+ZB
+lt
+lt
+FW
+CV
+Hz
+Rb
+WR
+lt
+lt
+IP
+lt
+lt
+Xi
+Hz
+Ai
+xA
+Hz
+Hz
+Hz
+CV
+Hz
+ul
+nI
+PP
+"}
+(6,1,1) = {"
+lt
+rX
+dl
+Yv
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+Yv
+CV
+Yv
+CV
+CV
+CV
+CV
+lt
+CV
+CV
+CV
+lt
+lt
+oq
+lt
+lt
+gU
+Hz
+uF
+QW
+QW
+vC
+lt
+ZB
+ZB
+ZB
+lt
+zo
+QW
+QW
+QW
+QW
+QW
+QW
+CV
+Hz
+Hz
+Hz
+gU
+"}
+(7,1,1) = {"
+lt
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+io
+ZB
+rX
+ZB
+nO
+ZB
+CV
+ZB
+ZB
+rX
+ZB
+lt
+CV
+mO
+CV
+Xo
+lt
+lt
+lt
+lt
+ul
+nI
+nI
+nI
+nI
+nI
+dT
+ZB
+ef
+ZB
+dT
+nI
+nI
+nI
+nI
+nI
+nI
+TN
+CV
+Hz
+YS
+nI
+PP
+"}
+(8,1,1) = {"
+lt
+ig
+ig
+kq
+ig
+Fs
+Fs
+Fs
+ig
+ig
+ig
+kq
+ig
+ZB
+CV
+ZB
+rX
+sH
+ZB
+lt
+CV
+mO
+CV
+CV
+ji
+CV
+Xp
+NV
+Ra
+fW
+Ra
+fW
+Ra
+fW
+Ra
+NV
+Ra
+fW
+Ra
+NV
+Ra
+fW
+fW
+Ra
+lF
+gU
+Yv
+CV
+sF
+eG
+gU
+"}
+(9,1,1) = {"
+lt
+YI
+jN
+TQ
+ig
+ZB
+ZB
+ZB
+ig
+YI
+jN
+YI
+ig
+rX
+CV
+ZB
+nO
+ZB
+ZB
+lt
+CV
+mO
+CV
+CV
+ji
+BQ
+BQ
+BQ
+BQ
+BQ
+BQ
+BQ
+BQ
+fR
+BQ
+BQ
+BQ
+BQ
+BQ
+fR
+BQ
+BQ
+BQ
+RP
+mY
+gU
+Vw
+Hz
+ul
+nI
+PP
+"}
+(10,1,1) = {"
+lt
+jN
+fd
+jN
+kq
+ZB
+dl
+rX
+kq
+jN
+fd
+Wy
+lt
+lt
+IP
+lt
+lt
+CV
+CV
+lt
+CV
+CV
+Vw
+CV
+ji
+CV
+CV
+CV
+Vw
+CV
+CV
+CV
+ji
+ji
+wN
+ji
+wN
+wN
+ji
+wN
+vx
+wN
+ji
+mJ
+mY
+gU
+CV
+MF
+Hz
+Hz
+gU
+"}
+(11,1,1) = {"
+lt
+YI
+jN
+YI
+ig
+nO
+ZB
+ZB
+ig
+YI
+jN
+YI
+lt
+ZB
+rX
+dc
+lt
+hb
+Ju
+lt
+Fs
+CV
+lt
+lt
+lt
+lt
+lt
+dT
+Ch
+Vh
+Vh
+dT
+Vh
+Vh
+Vh
+Vh
+dT
+Vh
+Vh
+Vh
+Vh
+dT
+ji
+dm
+pa
+PP
+CV
+Hz
+YS
+nI
+PP
+"}
+(12,1,1) = {"
+lt
+gU
+vc
+gU
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+nO
+Fs
+ZB
+lt
+lt
+lt
+lt
+CV
+CV
+Vh
+Er
+Ow
+kj
+Fu
+TN
+OF
+OF
+OF
+YS
+uJ
+jv
+Ow
+kj
+Fu
+qW
+nn
+yG
+Pv
+Vh
+CV
+dm
+mY
+gU
+Yv
+CV
+sF
+eG
+gU
+"}
+(13,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+Fs
+CV
+CV
+CV
+CV
+CV
+CV
+Vw
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+ZB
+Vh
+kY
+NB
+mM
+JC
+wj
+OF
+iO
+OF
+PP
+El
+rh
+NB
+yw
+JC
+Om
+fY
+QC
+lI
+Vh
+CV
+dm
+mY
+gU
+CV
+Hz
+ul
+nI
+PP
+"}
+(14,1,1) = {"
+lt
+gU
+mC
+gU
+CV
+ZB
+ZB
+mO
+mO
+wd
+ZB
+ZB
+mO
+mO
+mO
+ZB
+ZB
+mO
+mO
+wd
+ZB
+ZB
+Vh
+hK
+DR
+Fc
+cL
+VW
+OF
+OF
+OF
+ul
+Pp
+yG
+DR
+Fc
+cL
+vL
+Ww
+XX
+kz
+Vh
+CV
+Fs
+mY
+gU
+CV
+zY
+Hz
+Hz
+gU
+"}
+(15,1,1) = {"
+lt
+gU
+Fi
+gU
+CV
+ZB
+lt
+lt
+lt
+lt
+lt
+lt
+YS
+Rl
+Bo
+Rl
+TN
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+dT
+Vh
+Vh
+Ch
+dT
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+nI
+PP
+CV
+dm
+mY
+gU
+CV
+Hz
+YS
+nI
+PP
+"}
+(16,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+ZB
+lt
+ZM
+Ad
+te
+CV
+CV
+gU
+OF
+OF
+OF
+AM
+CV
+CV
+kC
+CV
+CV
+Vw
+CV
+CV
+CV
+CV
+CV
+Fs
+CV
+CV
+kC
+CV
+CV
+kS
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+kS
+CV
+dm
+mY
+gU
+Yv
+CV
+sF
+eG
+gU
+"}
+(17,1,1) = {"
+lt
+gU
+xr
+gU
+CV
+ZB
+lt
+sv
+gc
+Un
+ee
+So
+gU
+OF
+qD
+OF
+AM
+CV
+CV
+Yv
+CV
+CV
+CV
+Fs
+CV
+CV
+Vw
+CV
+CV
+CV
+CV
+kC
+CV
+CV
+ji
+CV
+YP
+Yv
+kC
+YP
+CV
+ji
+CV
+dm
+mY
+gU
+CV
+Hz
+ul
+nI
+PP
+"}
+(18,1,1) = {"
+lt
+gU
+xr
+gU
+CV
+ZB
+lt
+kC
+Yv
+kC
+Vz
+ee
+gU
+OF
+OF
+OF
+wa
+kC
+kC
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+CV
+CV
+ji
+QW
+QW
+QW
+QW
+QW
+QW
+ji
+CV
+uq
+mY
+ul
+CV
+Hz
+Hz
+Hz
+gU
+"}
+(19,1,1) = {"
+lt
+gU
+Ad
+gU
+Fs
+ZB
+lt
+Ho
+Ad
+Gs
+So
+ee
+ul
+nI
+nI
+HB
+IX
+CV
+CV
+lt
+yL
+yL
+yL
+yL
+yL
+yL
+xS
+yL
+yL
+xS
+yL
+lt
+kC
+Yv
+lt
+lt
+YS
+nI
+nI
+nI
+nI
+PP
+CV
+dm
+SP
+lt
+CV
+Hz
+YS
+nI
+PP
+"}
+(20,1,1) = {"
+lt
+gU
+mC
+gU
+CV
+ZB
+lt
+na
+iR
+yC
+ee
+PR
+ee
+CV
+lt
+CV
+CV
+CV
+Fs
+lt
+yL
+yL
+yL
+yL
+yL
+yL
+yL
+jI
+yL
+yL
+yL
+lt
+CV
+Vw
+CV
+Fs
+ul
+Yv
+yL
+yL
+kC
+gU
+CV
+Fs
+mY
+lt
+Yv
+CV
+sF
+eG
+gU
+"}
+(21,1,1) = {"
+lt
+gU
+mC
+gU
+CV
+ZB
+lt
+Yv
+Yv
+kC
+pn
+Hr
+ee
+CV
+lt
+CV
+CV
+CV
+CV
+lt
+PB
+PB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+PB
+PB
+lt
+CV
+CV
+CV
+CV
+lt
+yL
+BM
+zF
+yL
+gU
+CV
+dm
+mY
+lt
+Hz
+Hz
+ul
+nI
+PP
+"}
+(22,1,1) = {"
+lt
+gU
+Yb
+PP
+CV
+dc
+lt
+Zr
+Ad
+Ad
+ee
+ee
+Kt
+CV
+lt
+kC
+Yv
+lt
+lt
+lt
+lt
+lt
+Ki
+ZB
+cI
+cI
+cI
+ZB
+HS
+lt
+lt
+lt
+lt
+lt
+kC
+Yv
+lt
+yL
+yL
+yL
+Zs
+gU
+CV
+dm
+PM
+aw
+Ps
+Hz
+xA
+Hz
+PP
+"}
+(23,1,1) = {"
+lt
+gU
+kW
+gU
+CV
+ZB
+lt
+rd
+rq
+Mu
+CV
+CV
+CV
+Yv
+lt
+Fs
+CV
+lt
+wN
+wN
+wN
+lt
+HS
+ZB
+cI
+yr
+cI
+ZB
+HS
+lt
+wN
+wN
+wN
+lt
+CV
+CV
+lt
+sN
+yL
+yL
+yL
+VW
+CV
+dm
+CV
+lt
+lt
+lt
+lt
+lt
+gU
+"}
+(24,1,1) = {"
+lt
+gU
+SV
+gU
+CV
+ZB
+lt
+lt
+lt
+lt
+he
+lt
+lt
+lt
+lt
+CV
+CV
+lt
+nk
+CV
+wU
+lt
+HS
+ZB
+nj
+cI
+cI
+ZB
+HS
+lt
+nk
+CV
+wU
+lt
+CV
+CV
+lt
+rH
+vg
+vg
+yE
+lt
+ji
+ji
+ji
+lt
+lt
+yV
+lt
+lt
+gU
+"}
+(25,1,1) = {"
+lt
+gU
+hh
+gU
+CV
+ZB
+Ff
+Ff
+Ff
+Ff
+Ff
+tr
+Ff
+Ff
+Ff
+Ff
+Ff
+oF
+Xi
+CV
+WR
+ir
+HS
+ZB
+cI
+cI
+cI
+ZB
+HS
+Vx
+Xi
+CV
+WR
+SB
+CV
+CV
+lt
+cS
+EG
+nU
+lt
+lt
+ZB
+ZB
+ZB
+ev
+ZB
+ZB
+ZB
+CV
+SN
+"}
+(26,1,1) = {"
+lt
+gU
+Lj
+gU
+Fs
+ZB
+CV
+YP
+kC
+YP
+CV
+ji
+CV
+YP
+kC
+YP
+CV
+oF
+Xi
+Eg
+WR
+ji
+HS
+Fp
+On
+cI
+nj
+ZB
+HS
+ji
+Xi
+wf
+WR
+SB
+CV
+Vw
+Kd
+cS
+Ry
+cd
+lt
+Rb
+ZB
+uN
+ZB
+CV
+ZB
+uN
+ZB
+Ae
+SN
+"}
+(27,1,1) = {"
+lt
+gU
+Lj
+gU
+CV
+ZB
+QW
+QW
+QW
+QW
+QW
+ji
+QW
+QW
+QW
+QW
+QW
+oF
+Xi
+CV
+WR
+ji
+HS
+ZB
+cI
+cI
+cI
+ZB
+HS
+ji
+Xi
+CV
+WR
+SB
+CV
+CV
+lt
+cS
+SD
+La
+lt
+lt
+ZB
+ZB
+ZB
+CV
+ZB
+ZB
+ZB
+CV
+SN
+"}
+(28,1,1) = {"
+lt
+gU
+Lj
+gU
+CV
+ZB
+lt
+lt
+lt
+lt
+zk
+lt
+lt
+lt
+lt
+CV
+CV
+lt
+nk
+CV
+wU
+lt
+HS
+ZB
+nj
+cI
+cI
+ZB
+HS
+lt
+nk
+CV
+wU
+lt
+Fs
+CV
+lt
+yE
+vg
+vg
+rH
+lt
+ji
+ji
+ji
+lt
+lt
+oq
+lt
+lt
+gU
+"}
+(29,1,1) = {"
+lt
+gU
+qX
+gU
+CV
+ZB
+lt
+SC
+CV
+CV
+CV
+CV
+Rj
+Yv
+lt
+CV
+CV
+lt
+wN
+wN
+wN
+lt
+HS
+ZB
+cI
+yr
+cI
+Fp
+HS
+lt
+wN
+wN
+wN
+lt
+CV
+CV
+YS
+SG
+yL
+yL
+yL
+lt
+Xi
+CV
+WR
+lt
+lt
+lt
+lt
+lt
+lt
+"}
+(30,1,1) = {"
+lt
+wj
+Uv
+gU
+CV
+ZB
+lt
+CV
+rC
+ee
+ee
+ee
+ak
+CV
+lt
+Yv
+kC
+lt
+lt
+lt
+lt
+lt
+HS
+ZB
+cI
+cI
+cI
+ZB
+HS
+lt
+lt
+lt
+lt
+lt
+Yv
+kC
+gU
+yL
+yL
+yL
+yL
+lt
+Xi
+kC
+WR
+YS
+DW
+vV
+HT
+vV
+aw
+"}
+(31,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+ZB
+lt
+cR
+tc
+Ad
+cx
+Ad
+ee
+CV
+lt
+CV
+CV
+CV
+CV
+lt
+Fh
+Fh
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+Fh
+Fh
+lt
+CV
+CV
+CV
+CV
+gU
+yL
+zF
+Vk
+yL
+TN
+Xi
+MY
+WR
+gU
+Td
+CJ
+CJ
+pM
+lt
+"}
+(32,1,1) = {"
+lt
+gU
+Ad
+gU
+Vw
+ZB
+lt
+Yv
+ee
+ak
+ak
+rC
+Gn
+kC
+lt
+CV
+CV
+CV
+Fs
+lt
+yL
+yL
+yL
+yL
+yL
+yL
+yL
+xS
+yL
+yL
+yL
+lt
+Fs
+CV
+CV
+CV
+gU
+Yv
+yL
+yL
+kC
+gU
+gH
+Yv
+WR
+gU
+rn
+hw
+me
+hw
+lt
+"}
+(33,1,1) = {"
+lt
+gU
+Ad
+gU
+Fs
+ZB
+lt
+ax
+rx
+aw
+rx
+ax
+YS
+nI
+nI
+Rl
+Sa
+CV
+CV
+lt
+yL
+xS
+yL
+yL
+yL
+CS
+yL
+yL
+yL
+yL
+yL
+lt
+kC
+kC
+YS
+nI
+VW
+lt
+lt
+ul
+nI
+PP
+Xi
+CV
+WR
+gU
+me
+hw
+me
+hw
+lt
+"}
+(34,1,1) = {"
+lt
+gU
+EW
+gU
+CV
+ZB
+lt
+nA
+fO
+gU
+fO
+fO
+gU
+OF
+OF
+OF
+XW
+kC
+kC
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+CV
+CV
+Uc
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Uc
+Xi
+kC
+WR
+gU
+CJ
+Go
+CJ
+Vp
+lt
+"}
+(35,1,1) = {"
+lt
+gU
+xr
+gU
+CV
+ZB
+lt
+fO
+fO
+gU
+fO
+ma
+gU
+OF
+qD
+OF
+AM
+CV
+CV
+Yv
+CV
+Fs
+CV
+CV
+CV
+CV
+CV
+CV
+Fs
+CV
+CV
+Yv
+CV
+CV
+qt
+CV
+YP
+LF
+Yv
+YP
+CV
+qt
+Xi
+MY
+WR
+gU
+CJ
+Vp
+CJ
+Be
+lt
+"}
+(36,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+ZB
+lt
+fO
+fO
+gU
+fO
+nA
+gU
+OF
+OF
+OF
+wa
+CV
+CV
+kC
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+kC
+CV
+CV
+qt
+QW
+QW
+QW
+QW
+QW
+QW
+qt
+Xi
+kC
+WR
+gU
+WM
+hw
+hw
+hw
+lt
+"}
+(37,1,1) = {"
+lt
+gU
+xr
+gU
+Ft
+Sg
+nI
+nI
+nI
+aw
+nI
+nI
+pd
+Rl
+Bo
+Rl
+VW
+lt
+lt
+lt
+lt
+lt
+lt
+Rl
+Rl
+Rl
+lt
+lt
+lt
+lt
+YS
+nI
+nI
+nI
+pd
+nI
+TA
+nI
+nI
+nI
+nI
+PP
+Xi
+CV
+WR
+gU
+Nb
+hw
+hw
+vE
+lt
+"}
+(38,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+ZB
+ZB
+ZB
+mO
+mO
+wd
+ZB
+ZB
+ZB
+ZB
+mO
+mO
+mO
+ZB
+ZB
+mO
+wd
+mO
+ZB
+ZB
+ZB
+mO
+mO
+ZB
+ZB
+Vh
+Eh
+qW
+nn
+yG
+Pv
+gU
+OF
+iO
+OF
+OF
+AM
+Xi
+kC
+WR
+gU
+CJ
+kU
+CJ
+Go
+lt
+"}
+(39,1,1) = {"
+lt
+gU
+Ad
+gU
+CV
+Fs
+CV
+Vw
+CV
+CV
+CV
+CV
+Fs
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+CV
+Fs
+CV
+CV
+CV
+CV
+CV
+Vh
+fY
+Om
+fY
+QC
+lI
+gU
+OF
+OF
+OF
+OF
+XW
+Xi
+MY
+WR
+gU
+Vp
+Oc
+CJ
+CJ
+lt
+"}
+(40,1,1) = {"
+lt
+gU
+Df
+gU
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+Cb
+Cb
+dc
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+CV
+CV
+Vh
+Ww
+vL
+Ww
+XX
+kz
+gU
+OF
+OF
+iO
+OF
+AM
+Xi
+Yv
+WR
+ul
+nI
+TN
+hw
+hw
+lt
+"}
+(41,1,1) = {"
+lt
+Oq
+ZB
+ZB
+ZB
+TJ
+mO
+TJ
+bl
+io
+ZB
+TJ
+lt
+Cb
+Cb
+Cb
+lt
+Cx
+yL
+XP
+bD
+yL
+Cx
+Cx
+bD
+Cx
+lt
+wN
+CV
+Fs
+Vh
+fY
+Om
+fY
+QC
+lI
+gU
+OF
+OF
+OF
+OF
+AM
+Xi
+Vw
+WR
+ZB
+ZB
+aw
+jN
+jN
+lt
+"}
+(42,1,1) = {"
+lt
+ZB
+eE
+jc
+xr
+ZB
+mO
+ZB
+Eo
+xr
+xr
+ZB
+lt
+lt
+CR
+lt
+lt
+Cx
+yL
+XP
+yL
+yL
+zF
+yL
+yL
+yL
+lt
+Xo
+CV
+CV
+ul
+Vh
+Vh
+YS
+nI
+nI
+pd
+Bo
+Rl
+Rl
+Rl
+VW
+Xi
+kC
+WR
+ZB
+ZB
+Xe
+jN
+jN
+lt
+"}
+(43,1,1) = {"
+dT
+ON
+eE
+eE
+HF
+bl
+mO
+ZB
+wF
+eE
+HF
+ZB
+CV
+Cb
+Cb
+Ad
+lt
+bD
+zF
+XP
+yL
+XP
+XP
+XP
+yL
+Cx
+lt
+wN
+CV
+CV
+CV
+ji
+Ff
+IL
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+Ff
+NP
+kC
+WR
+ZB
+ZB
+aw
+jN
+jN
+lt
+"}
+(44,1,1) = {"
+gU
+zt
+xr
+Ud
+eE
+dc
+mO
+ZB
+xr
+Jm
+eE
+ZB
+Yv
+Cb
+jN
+Ad
+lt
+Cx
+yL
+XP
+yL
+bD
+Cx
+yL
+yL
+Cx
+lt
+Xo
+CV
+wd
+CV
+ji
+CV
+Gk
+YP
+Yv
+CV
+LF
+YP
+kC
+CV
+Yv
+kC
+CV
+WR
+YS
+nI
+VW
+Ad
+Ad
+lt
+"}
+(45,1,1) = {"
+gU
+Rt
+Lu
+Ma
+Lu
+Ce
+aP
+km
+Lu
+lN
+Dq
+sD
+CV
+Ad
+jN
+Ad
+lt
+Cx
+yL
+XP
+XP
+XP
+yL
+yL
+lt
+lt
+lt
+wN
+CV
+CV
+CV
+ji
+QW
+CM
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+QW
+vC
+aw
+yD
+zW
+zW
+zW
+lt
+"}
+(46,1,1) = {"
+gU
+ZZ
+Av
+xH
+Av
+NH
+qn
+jd
+Av
+RC
+Ph
+zm
+kC
+VE
+jN
+Ad
+Mp
+yL
+yL
+yL
+yL
+yL
+yL
+lt
+lt
+yV
+lt
+lt
+ji
+ji
+ji
+lt
+lt
+sC
+lt
+lt
+lt
+lt
+YS
+nI
+nI
+nI
+nI
+nI
+nI
+VW
+zW
+et
+zW
+or
+lt
+"}
+(47,1,1) = {"
+gU
+gk
+eE
+Ca
+Na
+ZB
+mO
+ZB
+VS
+Ic
+xr
+ZB
+CV
+Ad
+jN
+Ad
+lt
+XP
+XP
+yL
+XP
+XP
+lt
+lt
+ZB
+ZB
+ZB
+uU
+ZB
+ZB
+ZB
+lt
+lt
+nL
+Xi
+Pk
+Pk
+Pk
+Pk
+WR
+CV
+kC
+YP
+kC
+CV
+Ad
+zW
+qf
+zW
+Jc
+lt
+"}
+(48,1,1) = {"
+dT
+mz
+Tw
+eE
+eE
+bl
+mO
+ZB
+eE
+eE
+xr
+ZB
+Yv
+Ad
+jN
+Ad
+lt
+yL
+Nf
+yL
+yL
+yL
+lt
+Rb
+ZB
+MI
+ZB
+CV
+ZB
+MI
+ZB
+Rb
+lt
+Ok
+Ye
+vh
+SR
+RV
+zq
+vC
+jN
+jN
+GL
+jN
+jN
+Ad
+Wl
+zW
+zW
+zW
+lt
+"}
+(49,1,1) = {"
+lt
+bl
+xr
+xr
+qQ
+ZB
+mO
+bl
+xr
+MR
+yp
+bl
+CV
+Ad
+jN
+Ad
+lt
+yL
+XP
+XP
+Nf
+yL
+lt
+lt
+ZB
+ZB
+ZB
+CV
+ZB
+ZB
+ZB
+lt
+lt
+nL
+Ad
+wP
+Ad
+Yp
+Ad
+Ad
+sz
+jN
+jN
+jN
+jN
+Ad
+zW
+DG
+zW
+qf
+lt
+"}
+(50,1,1) = {"
+dT
+ng
+ZB
+ZB
+ZB
+TJ
+mO
+TJ
+ZB
+ZB
+ZB
+TJ
+kC
+Ad
+nD
+Ad
+lt
+yL
+zF
+yL
+yL
+yL
+bD
+lt
+CV
+Ae
+CV
+lt
+lt
+oq
+lt
+lt
+dT
+hv
+Bk
+Bk
+Bk
+Bk
+Bk
+oH
+CV
+kC
+YP
+kC
+CV
+Ad
+zW
+Br
+zW
+Vd
+lt
+"}
+(51,1,1) = {"
+ul
+dT
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+nI
+SN
+SN
+SN
+nI
+lt
+lt
+lt
+lt
+lt
+sC
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+"}
+
+(1,1,2) = {"
+UV
+UV
+UV
+UV
+UV
+wB
+wB
+ZF
+ZF
+UV
+qS
+qS
+qS
+UV
+UV
+UV
+UV
+wB
+wB
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+wB
+wB
+ZF
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+qS
+qS
+UV
+UV
+AT
+py
+qS
+qS
+UV
+wB
+fi
+ZF
+UV
+UV
+"}
+(2,1,2) = {"
+UV
+UV
+UV
+qS
+qS
+He
+Du
+Du
+JI
+tG
+Mr
+xr
+xr
+xr
+UV
+UV
+UV
+xr
+xr
+UV
+UV
+xq
+UV
+ZF
+UV
+UV
+qS
+Du
+sc
+Du
+Lv
+xr
+oz
+UV
+UV
+UV
+xr
+xr
+wB
+ZF
+ZF
+uo
+Kf
+bz
+bz
+Wx
+Kf
+bz
+bz
+bR
+SN
+"}
+(3,1,2) = {"
+UV
+ZF
+ZF
+Kf
+kQ
+He
+bz
+NU
+eE
+eE
+eE
+mG
+WX
+xr
+xr
+UV
+ZF
+wB
+TK
+nl
+xr
+FU
+Lv
+xr
+wB
+wB
+Du
+Du
+bz
+bz
+Du
+xr
+UV
+UV
+UV
+bz
+bz
+NJ
+xr
+wB
+wB
+uo
+Du
+wG
+bz
+bR
+Du
+wG
+bz
+bS
+SN
+"}
+(4,1,2) = {"
+ZF
+ZF
+dg
+He
+wt
+Mo
+bz
+Mr
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+wB
+UV
+xr
+TK
+TK
+xr
+IM
+xr
+TK
+bz
+Ea
+bz
+bn
+bR
+wB
+wB
+UV
+xr
+fL
+NJ
+NJ
+ss
+xr
+xr
+cl
+bz
+bz
+He
+bR
+bz
+bz
+He
+bR
+SN
+"}
+(5,1,2) = {"
+Gp
+Kf
+Pi
+He
+He
+mG
+eE
+eE
+eE
+xr
+xr
+xr
+NU
+He
+mG
+eE
+xr
+UV
+UV
+qS
+Du
+Ea
+bz
+sc
+TK
+bz
+xr
+bz
+bR
+bR
+wu
+ZF
+wu
+bR
+xr
+NJ
+NJ
+NJ
+NJ
+NJ
+NJ
+qZ
+bR
+bR
+bR
+ZF
+ZF
+fi
+wB
+Yg
+dS
+"}
+(6,1,2) = {"
+Sm
+Du
+Wr
+XF
+eE
+eE
+eE
+eE
+xr
+xr
+He
+Mo
+bz
+bz
+eE
+eE
+xr
+xr
+UV
+wB
+xr
+TK
+bz
+bz
+Du
+xr
+sc
+ZF
+wB
+qS
+wu
+wu
+wu
+bR
+bz
+NJ
+NJ
+He
+wt
+NJ
+NJ
+qZ
+eE
+xr
+eE
+bz
+UV
+UV
+UV
+UV
+UV
+"}
+(7,1,2) = {"
+Sm
+vY
+bz
+eE
+eE
+eE
+eE
+xr
+XF
+jG
+He
+wt
+bz
+iN
+UW
+eE
+eE
+xr
+UV
+UV
+xr
+nl
+TK
+xq
+TK
+ZF
+UV
+UV
+UV
+UV
+UV
+wu
+bR
+bz
+NJ
+NJ
+NJ
+He
+He
+NJ
+NJ
+UW
+xr
+xr
+eE
+bz
+Du
+dS
+dS
+UV
+UV
+"}
+(8,1,2) = {"
+qS
+NK
+He
+Cn
+xr
+eE
+NU
+He
+Pi
+bz
+He
+He
+bz
+aY
+bz
+eE
+eE
+eE
+eE
+UV
+UV
+qS
+sc
+xr
+ZF
+UV
+UV
+eE
+eE
+xr
+xr
+xr
+Mr
+Mr
+NU
+UW
+NJ
+NJ
+NJ
+NJ
+UW
+ac
+xr
+eE
+eE
+xR
+pI
+Du
+Yg
+UV
+UV
+"}
+(9,1,2) = {"
+qS
+XF
+Mr
+xr
+eE
+eE
+ZF
+UV
+qS
+bz
+oY
+bz
+bz
+bz
+Mo
+He
+jF
+eE
+eE
+mG
+UV
+qS
+xr
+xr
+qS
+UV
+eE
+eE
+eE
+eE
+eE
+ac
+lY
+xr
+eE
+eE
+yB
+NJ
+NJ
+UW
+NU
+eE
+WX
+eE
+bz
+bz
+He
+wt
+Du
+qS
+ZF
+"}
+(10,1,2) = {"
+ZF
+He
+Mr
+eE
+eE
+eE
+wB
+wB
+UV
+qS
+bz
+bz
+He
+oY
+bz
+oY
+He
+eE
+xr
+eE
+eE
+UV
+ZF
+ZF
+UV
+eE
+mG
+eE
+eE
+eE
+mG
+eE
+eE
+eE
+eE
+mG
+eE
+NU
+Mo
+iN
+eE
+eE
+eE
+Mr
+bz
+tB
+He
+He
+Du
+Du
+wB
+"}
+(11,1,2) = {"
+ZF
+LR
+He
+eE
+eE
+eE
+bz
+wB
+ZF
+UV
+He
+He
+bP
+bP
+He
+bz
+UW
+Mo
+xr
+xr
+eE
+UV
+UV
+UV
+UV
+eE
+eE
+xr
+xr
+eE
+bP
+bP
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+eE
+eE
+eE
+eE
+bz
+bz
+tB
+eq
+bz
+pI
+Du
+qS
+"}
+(12,1,2) = {"
+cl
+Kf
+Pi
+mG
+eE
+eE
+eE
+bz
+ZF
+ZF
+DE
+FG
+bz
+bP
+bP
+bz
+bz
+He
+NU
+xr
+eE
+eE
+UV
+UV
+xr
+xr
+eE
+xr
+NU
+XF
+bz
+bz
+He
+UV
+eE
+eE
+eE
+Xt
+eE
+eE
+xr
+eE
+eE
+fL
+bz
+bz
+tB
+Du
+Du
+Du
+UV
+"}
+(13,1,2) = {"
+bW
+tG
+bz
+Mr
+Mr
+eE
+eE
+eE
+bz
+wB
+bP
+Mo
+oY
+bz
+eq
+eq
+eq
+He
+bz
+xr
+eE
+eE
+eE
+xr
+xr
+eE
+eE
+Mo
+iN
+bz
+PY
+UW
+bz
+UV
+UV
+UV
+WX
+eE
+eE
+eE
+mG
+xr
+xr
+lH
+bz
+bz
+qS
+wB
+ZF
+Du
+dS
+"}
+(14,1,2) = {"
+qS
+Kf
+bz
+He
+Mr
+xr
+eE
+eE
+mG
+mg
+bP
+bP
+bz
+Iw
+xr
+xr
+bP
+DE
+He
+XF
+eE
+mG
+xr
+xr
+WX
+jF
+He
+He
+bz
+bz
+He
+bz
+fL
+UW
+UV
+UV
+eE
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+eE
+WA
+bz
+wB
+UV
+dS
+dS
+"}
+(15,1,2) = {"
+UV
+gC
+Du
+bz
+NU
+xr
+lS
+eE
+eE
+eE
+xr
+bP
+eq
+xr
+lS
+xr
+bP
+bP
+bz
+He
+He
+bz
+He
+bz
+bz
+He
+rD
+He
+kD
+He
+fL
+bz
+bz
+bz
+DE
+UV
+xr
+xr
+eE
+UV
+xr
+xr
+eE
+xr
+xr
+bz
+bz
+bz
+qS
+UV
+UV
+"}
+(16,1,2) = {"
+qS
+He
+Kf
+UW
+FG
+bz
+xr
+xr
+eE
+eE
+xr
+mg
+bP
+ai
+Fw
+xr
+xr
+xr
+bz
+fL
+bz
+bz
+Rm
+He
+bz
+He
+He
+bz
+bz
+bz
+He
+bz
+UV
+UV
+UV
+UV
+xr
+xr
+eE
+UV
+UV
+qS
+eE
+eE
+xr
+mG
+eE
+xr
+bz
+ZF
+ZF
+"}
+(17,1,2) = {"
+UV
+UV
+bz
+Pi
+UW
+Yg
+bz
+xR
+eE
+eE
+xr
+bP
+bP
+ai
+ai
+ai
+xr
+xr
+iz
+bz
+bz
+bz
+He
+bP
+bP
+bP
+bP
+bz
+bz
+He
+rD
+He
+UV
+UV
+He
+He
+lY
+eE
+eE
+bz
+MH
+qS
+qS
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+UV
+"}
+(18,1,2) = {"
+UV
+UV
+qS
+bz
+UV
+dS
+Yg
+Yg
+eE
+eE
+oz
+bP
+ai
+Fw
+xo
+ai
+ai
+lS
+xr
+bz
+iG
+bz
+ZF
+UV
+UV
+ZF
+ZF
+UV
+UV
+bz
+He
+bz
+UV
+bz
+Pi
+bz
+eE
+eE
+Xt
+xr
+He
+Pi
+UV
+UV
+eE
+xr
+xr
+eE
+pl
+mG
+UV
+"}
+(19,1,2) = {"
+UV
+UV
+qS
+UV
+UV
+PU
+PU
+bz
+xr
+eE
+eE
+dS
+dS
+ai
+ai
+ai
+ai
+ai
+UV
+qS
+wB
+qS
+UV
+AT
+AT
+AT
+AT
+AT
+UV
+UV
+qS
+wB
+ZF
+ai
+He
+bz
+eE
+eE
+eE
+xr
+xr
+fL
+bz
+Ep
+UV
+UV
+xr
+eE
+xr
+eE
+UV
+"}
+(20,1,2) = {"
+UV
+UV
+dS
+dS
+PU
+PU
+PU
+bz
+xr
+eE
+bz
+tB
+dS
+dS
+ai
+ai
+ai
+Fw
+UV
+AT
+AT
+AT
+AT
+AT
+BG
+dJ
+BG
+AT
+AT
+AT
+AT
+AT
+wB
+Fw
+ai
+He
+XF
+eE
+eE
+eE
+xr
+lH
+bz
+FG
+UW
+UV
+ZF
+eE
+xr
+xr
+qS
+"}
+(21,1,2) = {"
+UV
+ZF
+dS
+CP
+PU
+PU
+qw
+jF
+lY
+eE
+bz
+tB
+Yg
+Yg
+ai
+Fw
+ai
+ai
+UV
+AT
+iW
+iW
+AT
+rQ
+zW
+zW
+zW
+OB
+AT
+iW
+iW
+AT
+wB
+ai
+xo
+bz
+He
+eE
+eE
+eE
+eE
+bz
+bz
+bz
+NC
+mg
+wB
+eE
+bm
+Xt
+qS
+"}
+(22,1,2) = {"
+UV
+UV
+PU
+VP
+PU
+hB
+bz
+eE
+eE
+eE
+fL
+RZ
+bz
+dS
+dS
+ai
+ZF
+ZF
+qS
+AT
+PB
+PB
+AT
+rQ
+zW
+zW
+zW
+OB
+AT
+PB
+PB
+AT
+ZF
+Fw
+ai
+Fw
+Pi
+bz
+eE
+mG
+eE
+Rm
+Pi
+bz
+UW
+mg
+wB
+eE
+eE
+lr
+wB
+"}
+(23,1,2) = {"
+ZF
+VP
+xr
+xr
+PU
+hB
+qw
+eE
+eE
+eE
+xR
+bz
+bz
+tB
+dS
+ZF
+ZF
+ZF
+wB
+AT
+yL
+yL
+yr
+ZB
+jC
+jC
+jC
+ZB
+yr
+yL
+yL
+AT
+UV
+UV
+UV
+He
+bz
+eE
+xr
+eE
+eE
+Ep
+He
+xN
+UW
+mg
+UV
+mG
+xr
+eE
+ZF
+"}
+(24,1,2) = {"
+ZF
+xr
+PU
+PU
+PU
+RZ
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+bz
+UV
+qS
+fi
+UV
+wB
+AT
+yL
+yL
+ZB
+ZB
+zW
+zW
+zW
+ZB
+ZB
+yL
+yL
+AT
+qS
+Vf
+UV
+UV
+UV
+xr
+xr
+eE
+eE
+NC
+iN
+UW
+Rm
+UV
+UV
+xr
+eE
+eE
+ZF
+"}
+(25,1,2) = {"
+ZF
+Jp
+PU
+qT
+xP
+bz
+eE
+eE
+eE
+eE
+WX
+mG
+xr
+eE
+HC
+xr
+xr
+eE
+eE
+FC
+yL
+yL
+jC
+zW
+zW
+zW
+zW
+zW
+jC
+yL
+yL
+MO
+xr
+eE
+eE
+eE
+bk
+eE
+eE
+eE
+xr
+bz
+FG
+bz
+Pi
+UV
+eE
+eE
+eE
+qS
+ZF
+"}
+(26,1,2) = {"
+ZF
+cN
+PU
+qT
+Du
+eE
+xr
+xr
+bz
+eE
+eE
+eE
+eE
+eE
+HC
+eE
+xr
+xr
+eE
+ji
+yL
+yL
+jC
+zW
+zW
+Ck
+zW
+zW
+jC
+yL
+yL
+ji
+eE
+eE
+xr
+xr
+bk
+eE
+eE
+xr
+xr
+XF
+bz
+bz
+ZF
+ZF
+eE
+eE
+eE
+qS
+UV
+"}
+(27,1,2) = {"
+UV
+Du
+xP
+bz
+Mr
+eE
+xr
+eE
+bz
+bz
+RZ
+bz
+Mr
+Mr
+HC
+eE
+eE
+xr
+eE
+ji
+yL
+yL
+jC
+zW
+zW
+zW
+zW
+zW
+jC
+yL
+yL
+ji
+eE
+eE
+eE
+xr
+vq
+mG
+eE
+eE
+iC
+bz
+bz
+wB
+wB
+eE
+eE
+eE
+qS
+qS
+UV
+"}
+(28,1,2) = {"
+qS
+Du
+FG
+qw
+XF
+mG
+xr
+xr
+FG
+PU
+PU
+bz
+bz
+RZ
+UV
+qS
+jW
+qS
+qS
+AT
+yL
+yL
+ZB
+ZB
+zW
+zW
+zW
+ZB
+ZB
+yL
+yL
+AT
+ZF
+fi
+UV
+UV
+UV
+NU
+bz
+bz
+bz
+bz
+UV
+qS
+eE
+eE
+eE
+UV
+UV
+mg
+UV
+"}
+(29,1,2) = {"
+qS
+Du
+He
+SW
+bz
+eE
+eE
+xr
+Mr
+Mh
+PU
+Mh
+bz
+mg
+mg
+dS
+dS
+dS
+qS
+AT
+yL
+yL
+yr
+ZB
+jC
+jC
+jC
+ZB
+yr
+yL
+yL
+AT
+UV
+UV
+UV
+jn
+UV
+UV
+FG
+DE
+He
+UV
+UV
+xr
+eE
+mG
+ZF
+UV
+Pi
+zO
+dS
+"}
+(30,1,2) = {"
+UV
+xR
+xr
+bz
+bz
+eE
+WX
+eE
+NU
+Mh
+PU
+PU
+PU
+mg
+bz
+DE
+UV
+dS
+wB
+AT
+Fh
+Fh
+AT
+rQ
+zW
+zW
+zW
+OB
+AT
+Fh
+Fh
+AT
+qS
+UV
+jn
+kx
+jn
+se
+ZF
+wB
+wB
+qS
+xr
+xr
+eE
+eE
+ZF
+UV
+Du
+UY
+dS
+"}
+(31,1,2) = {"
+UV
+bz
+fs
+UW
+UW
+bz
+eE
+eE
+iN
+bz
+zG
+PU
+PU
+bz
+bz
+He
+He
+dS
+ZF
+AT
+iW
+iW
+AT
+rQ
+zW
+zW
+zW
+OB
+AT
+iW
+iW
+AT
+UV
+PQ
+jn
+jn
+kx
+jn
+jn
+jn
+kx
+jn
+ps
+eE
+eE
+bz
+bz
+bz
+Du
+UY
+Yg
+"}
+(32,1,2) = {"
+ZF
+bz
+xr
+aC
+UW
+bz
+eE
+eE
+eE
+xR
+bz
+cc
+PU
+UW
+He
+Ml
+bz
+bz
+wB
+AT
+AT
+AT
+AT
+AT
+oA
+dJ
+oA
+AT
+AT
+AT
+AT
+AT
+ZF
+UV
+jn
+jn
+kx
+jn
+He
+wt
+jn
+eE
+eE
+eE
+WA
+bz
+kD
+bz
+mg
+UV
+UV
+"}
+(33,1,2) = {"
+wB
+bz
+hQ
+bz
+Xf
+NU
+mG
+xr
+eE
+eE
+EZ
+UW
+bz
+bz
+bz
+mS
+bz
+EZ
+ZF
+ZF
+UV
+qS
+qS
+AT
+AT
+AT
+AT
+AT
+qS
+qS
+UV
+qS
+wB
+UV
+PQ
+PQ
+PQ
+jn
+He
+He
+NU
+eE
+eE
+eE
+bz
+bz
+iG
+Pi
+UV
+UV
+UV
+"}
+(34,1,2) = {"
+wB
+Du
+Du
+kQ
+UW
+Kf
+tG
+xr
+eE
+eE
+Mo
+UW
+He
+He
+Ml
+bz
+bz
+bz
+bz
+bz
+He
+Mr
+UV
+UV
+ZF
+UV
+UV
+ZF
+ZF
+mG
+eE
+eE
+Cn
+xr
+xr
+UV
+PQ
+jn
+yB
+kx
+eE
+eE
+eE
+bz
+RZ
+bz
+bz
+Du
+Du
+UY
+dS
+"}
+(35,1,2) = {"
+wB
+Kf
+Kf
+cc
+bz
+UV
+Kf
+xr
+eE
+eE
+jF
+fs
+bz
+He
+bz
+bz
+Xf
+Mr
+He
+He
+He
+EZ
+zG
+He
+He
+UV
+UV
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+jn
+jn
+eE
+lY
+xr
+xR
+bz
+ZF
+ZF
+UV
+mg
+mg
+dS
+"}
+(36,1,2) = {"
+ZF
+Kf
+Qb
+bz
+bz
+UV
+qS
+qS
+eE
+eE
+eE
+mG
+He
+EZ
+He
+bz
+EZ
+Mr
+He
+Ml
+He
+Mr
+XF
+Mr
+UV
+UV
+xr
+eE
+eE
+xr
+ac
+bP
+bP
+bP
+eE
+eE
+eE
+eE
+eE
+eE
+eE
+xr
+eE
+bz
+bz
+Du
+dS
+dS
+UV
+UV
+UV
+"}
+(37,1,2) = {"
+UV
+He
+UW
+UW
+UV
+UV
+UV
+UV
+xr
+xr
+eE
+eE
+jG
+He
+bz
+He
+wt
+bz
+zG
+iN
+VD
+bz
+bz
+He
+UV
+UV
+xr
+eE
+eE
+bP
+bP
+UV
+UV
+UV
+bP
+mG
+eE
+eE
+eE
+eE
+eE
+xr
+lH
+bz
+iG
+Du
+Du
+UV
+UV
+UV
+UV
+"}
+(38,1,2) = {"
+UV
+Pi
+oY
+xr
+xR
+UV
+ZF
+ZF
+wB
+qS
+xr
+xr
+eE
+NU
+He
+He
+He
+He
+bz
+UW
+UW
+Ml
+bz
+UV
+UV
+xr
+eE
+eE
+bP
+UV
+UV
+lD
+UW
+UV
+bP
+bP
+bP
+bP
+Xt
+eE
+eE
+eE
+UV
+up
+bz
+xR
+Du
+up
+wB
+UV
+UV
+"}
+(39,1,2) = {"
+UV
+UW
+xr
+xr
+DE
+He
+Is
+UV
+UV
+UV
+UV
+eE
+eE
+eE
+eE
+He
+He
+Ml
+bz
+bz
+bz
+Xf
+bz
+UV
+UV
+xr
+eE
+mG
+bP
+UV
+Pi
+bz
+Nc
+RZ
+UV
+UV
+UV
+bP
+He
+xr
+eE
+eE
+ZF
+up
+Du
+RZ
+bz
+bz
+wB
+UV
+UV
+"}
+(40,1,2) = {"
+wB
+qw
+Ml
+PI
+bz
+QX
+UW
+to
+Qb
+UV
+UV
+UV
+eE
+WX
+eE
+Mr
+Mr
+UW
+UW
+UW
+bz
+bz
+bz
+UV
+eE
+eE
+xr
+xr
+UW
+He
+wt
+UW
+yB
+UW
+Nc
+bz
+bz
+bz
+bz
+xr
+eE
+eE
+ZF
+UV
+Du
+bz
+Lh
+bz
+wB
+UV
+UV
+"}
+(41,1,2) = {"
+wB
+Du
+bz
+UW
+oY
+UW
+bz
+to
+to
+Mr
+UV
+UV
+UV
+eE
+mG
+eE
+eE
+xr
+xr
+lY
+xr
+UW
+UW
+mG
+eE
+eE
+xr
+UW
+Nc
+He
+He
+UW
+UW
+Nc
+lD
+bz
+Nc
+fL
+XF
+lY
+eE
+eE
+bm
+UV
+UV
+UV
+bz
+bz
+Du
+UV
+UV
+"}
+(42,1,2) = {"
+wB
+Kf
+PJ
+bz
+FG
+Pi
+UW
+He
+wt
+to
+Is
+to
+UV
+qS
+qS
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+xr
+eE
+eE
+eE
+UW
+bz
+iN
+Nc
+bz
+Nc
+bz
+xR
+UV
+UV
+UW
+bz
+NU
+Mr
+eE
+eE
+eE
+xr
+eE
+UV
+bz
+bz
+Du
+up
+qS
+"}
+(43,1,2) = {"
+UV
+UV
+Kf
+Du
+He
+NU
+xr
+He
+He
+UW
+bz
+UW
+UW
+Mr
+UV
+NU
+bz
+UW
+eE
+eE
+eE
+eE
+eE
+eE
+xr
+xr
+fL
+UW
+NU
+bz
+bz
+UV
+UV
+UV
+UV
+UV
+UV
+iN
+Pi
+FG
+Mr
+eE
+xr
+lY
+xr
+ZF
+bz
+tA
+gu
+up
+qS
+"}
+(44,1,2) = {"
+UV
+UV
+ZF
+Kf
+He
+aC
+xr
+xr
+Mr
+Mr
+UW
+bz
+QX
+UW
+Mr
+UW
+bz
+fL
+bz
+eE
+eE
+eE
+jF
+UV
+UV
+UW
+Nc
+Nc
+bz
+Mo
+UV
+UV
+UV
+UV
+UV
+UV
+UW
+bz
+bz
+bz
+PQ
+ZF
+xr
+eE
+xr
+qS
+Du
+Wr
+dS
+ZF
+UV
+"}
+(45,1,2) = {"
+UV
+UV
+ZF
+Kf
+Du
+bz
+xr
+xr
+eE
+eE
+xr
+xr
+UW
+bz
+Mr
+QX
+UW
+EZ
+bz
+eE
+eE
+lY
+xr
+bz
+UV
+UV
+UW
+bz
+RZ
+UV
+UV
+UV
+UV
+UV
+He
+Pi
+lD
+UW
+bz
+FG
+bz
+UV
+xr
+eE
+eE
+qS
+up
+up
+UV
+UV
+UV
+"}
+(46,1,2) = {"
+UV
+UV
+UV
+UV
+UV
+UV
+xr
+eE
+eE
+eE
+mG
+xr
+xr
+bz
+bz
+UW
+Mr
+UW
+bz
+eE
+xr
+eE
+fL
+bz
+bz
+UV
+UW
+Nc
+UW
+UV
+UV
+UV
+UW
+bz
+fL
+bz
+lD
+He
+wt
+lD
+bz
+qS
+eE
+xr
+xr
+ZF
+dS
+dS
+ZF
+ZF
+UV
+"}
+(47,1,2) = {"
+UV
+UV
+wB
+fi
+ZF
+UV
+bR
+bR
+bR
+ZF
+bm
+eE
+xr
+xr
+xR
+bz
+NU
+UW
+eE
+eE
+eE
+WX
+lH
+HN
+bz
+UV
+UV
+Pi
+Pa
+UW
+Nc
+bz
+UW
+Nc
+UW
+Nc
+xR
+He
+FG
+RZ
+zO
+wB
+bR
+bR
+bR
+UV
+wB
+fi
+ZF
+UV
+UV
+"}
+(48,1,2) = {"
+SN
+bR
+Kf
+bz
+bz
+eg
+Kf
+bz
+bz
+UV
+ZF
+eE
+eE
+eE
+eE
+xr
+xr
+xr
+xr
+eE
+eE
+bm
+bz
+bz
+DE
+UV
+UV
+UV
+UW
+NU
+bz
+lD
+iN
+NU
+Pi
+bz
+Nc
+bz
+lD
+bz
+UV
+uo
+Kf
+bz
+bz
+co
+Kf
+bz
+bz
+bR
+SN
+"}
+(49,1,2) = {"
+SN
+bS
+Du
+TV
+bz
+bR
+Du
+TV
+bz
+UV
+UV
+WX
+eE
+eE
+eE
+eE
+mG
+eE
+eE
+eE
+eE
+bz
+bz
+bz
+xR
+bP
+UV
+UV
+UV
+lD
+bz
+bz
+wZ
+UW
+UW
+UW
+Pi
+li
+UV
+dS
+dS
+uo
+Du
+cU
+bz
+bR
+Du
+cU
+bz
+bS
+SN
+"}
+(50,1,2) = {"
+SN
+bR
+bz
+bz
+He
+bR
+bz
+bz
+He
+UV
+UV
+ZF
+ZF
+UV
+eE
+eE
+eE
+jF
+Mr
+Mr
+bz
+bP
+bP
+mg
+mg
+bP
+UV
+UV
+UV
+bP
+UV
+UV
+UV
+UV
+bP
+bP
+dS
+bR
+bR
+ZV
+dS
+cl
+bz
+bz
+He
+bR
+bz
+bz
+He
+bR
+SN
+"}
+(51,1,2) = {"
+UV
+ZF
+ZF
+fi
+wB
+Yg
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+ZF
+UV
+UV
+UV
+ZF
+ZF
+ZF
+ZF
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+UV
+dS
+dS
+dS
+dS
+dS
+AT
+py
+qS
+qS
+ZF
+ZF
+fi
+wB
+Yg
+dS
+"}
+
+(1,1,3) = {"
+AT
+dS
+dS
+sG
+AT
+AT
+dS
+dS
+AT
+AT
+Rc
+AT
+Dx
+Dx
+Rc
+AT
+AT
+AT
+dS
+dS
+Dx
+SE
+SE
+AT
+AT
+AT
+dS
+dS
+dS
+Dx
+SE
+AT
+AT
+Dx
+Dx
+Dx
+SE
+AT
+AT
+Rc
+AT
+SE
+SE
+dS
+dS
+dS
+AT
+AT
+Rc
+AT
+AT
+"}
+(2,1,3) = {"
+Yx
+Au
+ZB
+ZB
+ZB
+wD
+ZB
+ZB
+ZB
+AT
+fv
+Zc
+Zc
+TK
+tu
+AT
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+AT
+XM
+Zj
+yj
+AT
+Nz
+CH
+ud
+cY
+cY
+qc
+cK
+TK
+AT
+"}
+(3,1,3) = {"
+AT
+oD
+ZB
+Rv
+ZB
+Ad
+ZB
+Rv
+ZB
+AT
+fJ
+TK
+Zc
+Zc
+ol
+dS
+CO
+AS
+CO
+CO
+CO
+CO
+CO
+zX
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+AS
+CO
+Dx
+EC
+Nz
+YV
+nm
+TK
+Nz
+Nz
+Nz
+YV
+YV
+jB
+Yu
+Rc
+"}
+(4,1,3) = {"
+AT
+Au
+ZB
+ZB
+ZB
+Ad
+ZB
+ZB
+ZB
+dS
+TK
+cD
+Zc
+Zc
+Xu
+Dx
+CO
+CO
+dy
+CO
+CO
+CO
+CO
+nY
+Gy
+Gy
+Mt
+wo
+CO
+PG
+CO
+CO
+CO
+CO
+dy
+CO
+CO
+SE
+Gv
+YC
+Zi
+AT
+TK
+TK
+oT
+Nz
+Nz
+Nz
+YV
+TK
+AT
+"}
+(5,1,3) = {"
+AT
+AT
+AT
+sG
+dS
+AT
+ji
+ji
+ji
+dS
+mD
+jB
+TK
+Zc
+wn
+SE
+CO
+wo
+CO
+AT
+AT
+AT
+AT
+Rc
+AT
+AT
+IB
+AT
+AT
+Rc
+SE
+SE
+dS
+dS
+ag
+CO
+CO
+AT
+AT
+SE
+Dx
+Dx
+SE
+Gw
+Gw
+SE
+AT
+dz
+Nz
+Nz
+Dx
+"}
+(6,1,3) = {"
+AT
+AT
+dS
+dS
+AT
+AT
+CO
+CO
+CO
+AT
+dS
+dS
+IB
+AT
+AT
+SE
+CO
+CO
+CO
+dS
+zW
+zW
+zW
+rr
+JQ
+Zc
+Zc
+Zc
+TK
+rr
+zW
+zW
+QO
+dS
+CO
+Js
+CO
+AT
+Xz
+yn
+sb
+JQ
+Zc
+Zc
+TK
+TK
+AT
+gQ
+TK
+rO
+dS
+"}
+(7,1,3) = {"
+Rc
+Eq
+TK
+kT
+ra
+AT
+CO
+CO
+CO
+CO
+Gy
+Gy
+BN
+dy
+CO
+CO
+CO
+CO
+CO
+Dx
+zW
+XD
+zW
+Rc
+Zc
+zc
+iB
+Yr
+TK
+Rc
+zW
+XD
+zW
+SE
+CO
+Js
+CO
+dS
+Xz
+gQ
+sb
+Zc
+TK
+TK
+TK
+TK
+IB
+TK
+TK
+rO
+dS
+"}
+(8,1,3) = {"
+dS
+TK
+TK
+hH
+hH
+IB
+CO
+AS
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+AS
+CO
+SE
+QO
+zW
+ZB
+Zc
+Zc
+oa
+Ng
+gS
+TK
+TK
+ZB
+zW
+zW
+SE
+CO
+Js
+zX
+IB
+TK
+TK
+TK
+Zc
+Iz
+Zc
+Zc
+TK
+dS
+TK
+Nz
+rO
+AT
+"}
+(9,1,3) = {"
+Dx
+iY
+hH
+hH
+hH
+AT
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+vH
+Rc
+rr
+Rc
+Zc
+Zc
+Zc
+cO
+jy
+ku
+TK
+jB
+TK
+Rc
+rr
+Rc
+MX
+Js
+CO
+SE
+TK
+Xz
+sb
+Zc
+TK
+sb
+sb
+TK
+dS
+oT
+Nz
+TK
+AT
+"}
+(10,1,3) = {"
+SE
+ra
+ra
+TK
+TK
+AT
+CO
+CO
+CO
+AT
+AT
+AT
+SE
+Dx
+Dx
+AT
+AT
+dS
+AT
+AT
+yL
+wv
+Zc
+Zc
+AT
+AT
+rr
+AT
+AT
+TK
+TK
+aW
+yL
+AT
+CO
+CO
+wo
+SE
+TK
+cA
+RI
+TK
+TK
+gQ
+yn
+JQ
+SE
+YV
+TK
+Yu
+Rc
+"}
+(11,1,3) = {"
+Rc
+Fr
+TK
+Tc
+fC
+AT
+CO
+CO
+CO
+AT
+TK
+Ri
+CK
+Il
+Zc
+np
+TK
+Vi
+TK
+AT
+yL
+wv
+Zc
+dS
+Rc
+NN
+Zc
+Zc
+Rc
+AT
+Zc
+aW
+yL
+AT
+CO
+CO
+CO
+AT
+TK
+sb
+sb
+TK
+TK
+Xz
+sb
+Zc
+SE
+YV
+TK
+TK
+AT
+"}
+(12,1,3) = {"
+AT
+AT
+dS
+dS
+dS
+dS
+jZ
+yH
+CO
+AT
+TK
+TK
+TK
+TK
+Zc
+Zc
+Zc
+TK
+Rq
+dS
+yL
+ow
+Zc
+dS
+Zc
+zc
+Qd
+at
+Zc
+AT
+Zc
+aW
+xL
+dS
+CO
+CO
+CO
+AT
+AT
+bq
+DL
+SE
+dS
+bG
+bG
+AT
+AT
+AT
+IB
+SE
+SE
+"}
+(13,1,3) = {"
+AT
+TK
+mj
+Aa
+TK
+dS
+CO
+yH
+CO
+IB
+TK
+TK
+AS
+Zc
+Zc
+Zc
+Zc
+AS
+TK
+dS
+yL
+wv
+JQ
+rr
+Zc
+LK
+Ng
+wv
+bJ
+rr
+Zc
+aW
+yL
+dS
+CO
+CO
+dy
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+SE
+"}
+(14,1,3) = {"
+Rc
+pV
+TK
+bM
+Aa
+AT
+CO
+yH
+CO
+SE
+JQ
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+Dx
+xL
+wv
+Zc
+dS
+Zc
+dw
+XH
+hd
+Zc
+dS
+Zc
+bs
+yL
+Dx
+CO
+AS
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+Mt
+AS
+CO
+AT
+"}
+(15,1,3) = {"
+AT
+lk
+Zc
+TK
+yi
+AT
+gM
+pe
+CO
+SE
+Zc
+Zc
+QP
+Zc
+Iq
+Zc
+Zc
+bJ
+Zc
+SE
+yL
+ow
+Zc
+AT
+Rc
+Zc
+Zc
+Zc
+OW
+Dx
+TK
+aW
+yL
+SE
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+qI
+CO
+CO
+dS
+"}
+(16,1,3) = {"
+SE
+HQ
+Zc
+Zc
+TK
+IB
+BN
+CO
+CO
+AT
+AT
+Dx
+dS
+SE
+AT
+AT
+jB
+Zc
+Zc
+SE
+yL
+wv
+zb
+Zc
+AT
+Dx
+ob
+SE
+AT
+TK
+TK
+aW
+yL
+Dx
+CO
+CO
+CO
+AT
+SE
+Dx
+AT
+IB
+AT
+Dx
+Dx
+AT
+AT
+yo
+CO
+CO
+Dx
+"}
+(17,1,3) = {"
+SE
+TK
+Zc
+Yk
+Zc
+AT
+CO
+dy
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+AT
+TK
+TK
+Ha
+AT
+yL
+pf
+nG
+Zc
+Zc
+Zc
+TK
+TK
+TK
+TK
+Ij
+tO
+yL
+AT
+CO
+wo
+CO
+dS
+xv
+cD
+TK
+TK
+TK
+yx
+Zc
+yx
+SE
+yH
+CO
+zX
+Dx
+"}
+(18,1,3) = {"
+Rc
+PS
+Zc
+Zc
+ZS
+dS
+CO
+AS
+CO
+CO
+CO
+wo
+CO
+AS
+CO
+dS
+pA
+TK
+TK
+AT
+yL
+Xn
+An
+hr
+iB
+iB
+iB
+KJ
+iB
+iB
+Tm
+yL
+yL
+AT
+CO
+CO
+CO
+dS
+OT
+TK
+TK
+TK
+Zc
+uL
+Zc
+sS
+SE
+yH
+wo
+CO
+Dx
+"}
+(19,1,3) = {"
+AT
+og
+Zc
+Zc
+GQ
+Dx
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+Dx
+TK
+TK
+TK
+AT
+Sv
+yL
+yL
+yL
+yL
+xL
+xL
+yL
+yL
+yL
+yL
+yL
+mZ
+AT
+wo
+CO
+CO
+dS
+TK
+lQ
+Zc
+Zc
+Zc
+Zc
+Zc
+TK
+dS
+CO
+wo
+CO
+AT
+"}
+(20,1,3) = {"
+SE
+ZS
+TK
+TK
+AI
+AT
+AT
+SE
+SE
+Dx
+dS
+AT
+zX
+CO
+CO
+Dx
+AT
+IB
+AT
+AT
+AT
+AT
+dS
+dS
+AT
+SE
+SE
+Dx
+dS
+dS
+AT
+SE
+Dx
+dS
+wo
+CO
+CO
+AT
+uL
+Zc
+Zc
+JQ
+Iz
+TK
+TK
+TK
+dS
+CO
+CO
+CO
+AT
+"}
+(21,1,3) = {"
+Dx
+TK
+TK
+uS
+Zc
+Zc
+jh
+Aa
+ws
+TK
+IV
+dS
+CO
+CO
+CO
+SE
+Mi
+CO
+CO
+AT
+yL
+yL
+rQ
+iW
+iW
+iW
+iW
+iW
+OB
+yL
+yL
+ZB
+zv
+AT
+CO
+CO
+CO
+SE
+RQ
+Zc
+uL
+Zc
+Oh
+TK
+TK
+Xz
+AT
+CO
+CO
+CO
+dS
+"}
+(22,1,3) = {"
+Rc
+tz
+TK
+qs
+TK
+Zc
+MU
+jB
+TK
+jB
+AH
+AT
+CO
+CO
+CO
+AT
+CO
+CO
+CO
+dS
+yL
+yL
+rQ
+iW
+iW
+iW
+iW
+iW
+OB
+yL
+yL
+AT
+dS
+dS
+fE
+fE
+fE
+AT
+AT
+AT
+RQ
+zL
+RQ
+TK
+Xl
+RI
+AT
+CO
+CO
+CO
+AT
+"}
+(23,1,3) = {"
+AT
+Ls
+jB
+Xz
+ge
+sb
+jh
+dq
+TK
+Jj
+KH
+SE
+CO
+wo
+CO
+AT
+CO
+CO
+wo
+dS
+yL
+yL
+Rc
+AT
+bq
+bq
+bq
+AT
+Rc
+yL
+yL
+AT
+gT
+gT
+fU
+Mx
+Bs
+gT
+gT
+AT
+SE
+Rc
+SE
+SE
+Rc
+AT
+Rc
+MX
+CO
+vH
+Rc
+"}
+(24,1,3) = {"
+dS
+AT
+IB
+AT
+AT
+AT
+AS
+SE
+SE
+AS
+AT
+SE
+CO
+CO
+CO
+AT
+CO
+CO
+CO
+Dx
+tp
+tp
+tp
+zW
+aE
+zW
+zW
+jM
+tp
+tp
+tp
+Rc
+sP
+gT
+pO
+Mx
+cJ
+gT
+gT
+ME
+Rc
+dS
+dS
+dS
+sG
+AT
+AT
+Ad
+Ad
+Ad
+AT
+"}
+(25,1,3) = {"
+dS
+CO
+Js
+CO
+SE
+Zc
+Zc
+TK
+TK
+TK
+Zc
+dS
+CO
+yH
+CO
+dS
+CO
+Ns
+CO
+Dx
+tp
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+tp
+Mk
+WC
+wb
+Mx
+Mx
+Mx
+LT
+WC
+sp
+AT
+SN
+Ad
+ZB
+ZB
+ZB
+tn
+ZB
+ZB
+ZB
+dS
+"}
+(26,1,3) = {"
+AT
+CO
+Js
+CO
+Dx
+Zc
+RX
+vu
+vu
+vu
+TK
+dS
+CO
+yH
+CO
+dS
+CO
+Js
+CO
+SE
+tp
+zW
+zW
+zW
+zW
+yr
+zW
+zW
+zW
+zW
+tp
+ji
+Mx
+Mx
+Mx
+Vo
+Mx
+Mx
+Mx
+sp
+dS
+SN
+OL
+ZB
+xy
+ZB
+Ad
+ZB
+xy
+ZB
+Dx
+"}
+(27,1,3) = {"
+SE
+hX
+CO
+wo
+dS
+TK
+Zc
+Zc
+RX
+TK
+jB
+dS
+CO
+yH
+CO
+dS
+CO
+Js
+CO
+AT
+tp
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+tp
+ji
+Cr
+iS
+Mx
+Mx
+Mx
+EJ
+Cr
+sp
+AT
+SN
+Ad
+ZB
+ZB
+ZB
+Ad
+ZB
+ZB
+ZB
+Dx
+"}
+(28,1,3) = {"
+Dx
+CO
+CO
+CO
+AT
+TK
+RX
+RX
+RX
+RX
+TK
+dS
+hX
+yH
+CO
+Dx
+CO
+Js
+CO
+AT
+tp
+tp
+tp
+zW
+zW
+zW
+aE
+zW
+tp
+tp
+tp
+Rc
+sP
+gT
+Jt
+Mx
+eA
+gT
+gT
+ME
+Rc
+AT
+dS
+dS
+sG
+dS
+dS
+Ad
+Ad
+Ad
+AT
+"}
+(29,1,3) = {"
+Dx
+CO
+CO
+CO
+IB
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+SE
+CO
+CO
+wo
+SE
+CO
+Js
+CO
+AT
+yL
+yL
+Rc
+AT
+bq
+bq
+bq
+AT
+Rc
+yL
+yL
+AT
+gT
+gT
+fU
+Mx
+Bs
+gT
+gT
+AT
+AT
+Rc
+AT
+AT
+AT
+AT
+Rc
+MX
+CO
+vH
+Rc
+"}
+(30,1,3) = {"
+dS
+CO
+CO
+CO
+AT
+Zc
+RX
+vu
+vu
+RX
+Zc
+Dx
+CO
+CO
+CO
+SE
+CO
+CO
+CO
+dS
+yL
+yL
+rQ
+iW
+iW
+iW
+iW
+iW
+OB
+yL
+yL
+AT
+dS
+AT
+Nu
+Nu
+Nu
+AT
+AT
+AT
+Uf
+VT
+iw
+AT
+CO
+CO
+zX
+CO
+CO
+CO
+AT
+"}
+(31,1,3) = {"
+AT
+CO
+CO
+CO
+SE
+Zc
+TK
+vu
+Vc
+RX
+Zc
+dS
+CO
+CO
+ag
+AT
+CO
+wo
+CO
+dS
+yL
+yL
+rQ
+iW
+iW
+iW
+iW
+iW
+OB
+yL
+yL
+ZB
+zv
+Dx
+CO
+Js
+CO
+SE
+pP
+jw
+UA
+ux
+LX
+Dx
+CO
+yH
+CO
+wo
+CO
+CO
+AT
+"}
+(32,1,3) = {"
+AT
+CO
+wo
+CO
+Dx
+TK
+TK
+TK
+TK
+TK
+Zc
+AT
+CO
+CO
+CO
+AT
+CO
+CO
+CO
+AT
+SE
+AT
+dS
+AT
+SE
+Dx
+Dx
+AT
+AT
+AT
+AT
+Dx
+Dx
+dS
+CO
+Js
+CO
+AT
+MZ
+jQ
+HM
+UN
+JB
+Dx
+CO
+yH
+CO
+CO
+CO
+CO
+Dx
+"}
+(33,1,3) = {"
+dS
+CO
+CO
+CO
+dS
+AT
+AT
+dS
+Dx
+Dx
+AT
+AT
+AT
+IB
+AT
+AT
+CO
+CO
+dy
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dy
+CO
+CO
+AT
+jq
+Ut
+Tu
+UC
+lV
+SE
+CO
+yH
+CO
+AT
+dS
+dS
+SE
+"}
+(34,1,3) = {"
+dS
+CO
+CO
+dy
+CO
+CO
+CF
+CO
+CO
+CO
+CO
+AT
+sb
+Zc
+Zc
+dS
+CO
+AS
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+AS
+CO
+dS
+OY
+UA
+TK
+JQ
+pP
+AT
+CO
+CO
+CO
+AT
+wy
+JA
+AT
+"}
+(35,1,3) = {"
+AT
+CO
+AS
+zX
+CO
+CO
+CO
+wo
+CO
+AS
+CO
+AT
+Rr
+JQ
+mP
+dS
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+hX
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dS
+wx
+bJ
+Zc
+uX
+hS
+AT
+ag
+CO
+fr
+AT
+hO
+ca
+Rc
+"}
+(36,1,3) = {"
+AT
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dy
+CO
+CO
+dS
+Xz
+Zc
+qO
+AT
+AT
+SE
+SE
+AT
+dS
+dS
+dS
+Dx
+SE
+AT
+dS
+dS
+SE
+SE
+IB
+AT
+AT
+AT
+SE
+SE
+SE
+Dx
+AT
+dS
+AT
+pr
+AT
+AT
+CO
+CO
+Gy
+mB
+nf
+gY
+AT
+"}
+(37,1,3) = {"
+AT
+AT
+AT
+Dx
+Dx
+SE
+AT
+AT
+CO
+wo
+CO
+dS
+TK
+TK
+TK
+Zc
+Zc
+yx
+Zc
+yx
+AT
+Zc
+Zc
+TK
+TK
+TK
+TK
+TK
+AT
+CO
+CO
+CO
+AT
+XM
+TK
+TK
+Zc
+Zc
+Zc
+AT
+CO
+KR
+CO
+CO
+wo
+fr
+CO
+AT
+hO
+AO
+AT
+"}
+(38,1,3) = {"
+Rc
+Zh
+kP
+kJ
+cB
+oN
+TM
+AT
+CO
+CO
+CO
+Dx
+Nj
+TK
+jB
+Iz
+Zc
+qO
+Zc
+LL
+Dx
+TK
+Nk
+Zc
+RX
+cD
+vu
+TK
+AT
+hX
+CO
+CO
+dS
+TK
+TK
+TK
+TK
+Zc
+Zc
+AT
+CO
+AS
+CO
+CO
+CO
+CO
+fr
+dS
+hO
+lX
+Rc
+"}
+(39,1,3) = {"
+AT
+ha
+TK
+oN
+oN
+TK
+fg
+Dx
+CO
+CO
+CO
+dS
+Nj
+TK
+Zc
+Zc
+mP
+nb
+TK
+Jd
+Dx
+KA
+vu
+Qm
+Rc
+Zc
+vu
+TK
+SE
+CO
+dy
+CO
+Dx
+aq
+TK
+TK
+Rc
+PS
+Zc
+AT
+CO
+CO
+dy
+zX
+CO
+CO
+CO
+dS
+Zg
+aX
+AT
+"}
+(40,1,3) = {"
+AT
+TK
+oN
+Ev
+oN
+TK
+TM
+Dx
+CO
+CO
+CO
+SE
+sS
+Zc
+Iz
+mP
+Zc
+ND
+TK
+ND
+dS
+TK
+RX
+mP
+RX
+uD
+RX
+TK
+SE
+CO
+CO
+CO
+Dx
+Zc
+JQ
+aq
+Zc
+Zc
+HX
+AT
+CO
+CO
+CO
+AT
+dS
+Dx
+Dx
+SE
+AT
+AT
+dS
+"}
+(41,1,3) = {"
+Rc
+nJ
+GC
+oN
+TK
+TK
+TM
+dS
+CO
+CO
+CO
+AT
+RQ
+Zc
+Zc
+Zc
+SE
+SE
+AS
+AT
+AT
+Zc
+Zc
+mP
+RX
+RX
+RX
+KA
+Dx
+CO
+wo
+CO
+AT
+HX
+Zc
+Zc
+Zc
+Zc
+TK
+Dx
+CO
+CO
+CO
+AT
+Zc
+Zc
+Zc
+TK
+TK
+TK
+dS
+"}
+(42,1,3) = {"
+AT
+SE
+SE
+IB
+AT
+dS
+dS
+dS
+CO
+CO
+CO
+SE
+SE
+AT
+AT
+IB
+SE
+Zl
+Zl
+Zl
+AT
+TK
+vu
+Zc
+Zc
+JQ
+RX
+mP
+dS
+CO
+zX
+CO
+dS
+TK
+TK
+Iz
+TK
+jB
+HX
+Dx
+wo
+CO
+CO
+SE
+Zc
+Zc
+Zc
+TK
+Pu
+TK
+dS
+"}
+(43,1,3) = {"
+AT
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+AT
+Ot
+TK
+Zc
+Zc
+Iz
+TK
+AT
+TK
+vu
+TK
+vu
+TK
+RX
+mP
+SE
+CO
+CO
+CO
+Dx
+aq
+Zc
+Zc
+HX
+TK
+TK
+SE
+CO
+CO
+CO
+dS
+Zc
+Zc
+Rc
+pV
+TK
+TK
+SE
+"}
+(44,1,3) = {"
+Dx
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dS
+Lw
+Zc
+Zc
+qO
+TK
+KA
+AT
+Zc
+vu
+TK
+Rc
+DY
+RX
+TK
+SE
+CO
+CO
+CO
+Dx
+Zc
+Qm
+Rc
+Zc
+Zc
+aq
+AT
+CO
+CO
+CO
+dS
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+SE
+"}
+(45,1,3) = {"
+Dx
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dS
+qA
+Zc
+mP
+jB
+KA
+KA
+AT
+qO
+RX
+Zc
+vu
+vu
+RX
+TK
+Dx
+CO
+CO
+CO
+dS
+Zc
+jB
+TK
+TK
+Zc
+Zc
+AT
+CO
+CO
+CO
+AT
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+SE
+"}
+(46,1,3) = {"
+AT
+AT
+SE
+SE
+AT
+Rc
+CO
+CO
+CO
+Rc
+CO
+CO
+jZ
+AT
+Qv
+Zc
+Zc
+sb
+tY
+sb
+AT
+Zc
+Zc
+mP
+mP
+Iz
+TK
+TK
+dS
+CO
+CO
+CO
+AT
+Zc
+TK
+TK
+TK
+TK
+Iz
+AT
+CO
+CO
+CO
+IB
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+AT
+"}
+(47,1,3) = {"
+AT
+AT
+dS
+sG
+dS
+AT
+ji
+ji
+ji
+AT
+CO
+CO
+CO
+AT
+AT
+AT
+Dx
+Dx
+dS
+AT
+AT
+IB
+AT
+Dx
+SE
+SE
+AT
+SE
+AT
+CO
+CO
+wo
+AT
+dS
+AT
+IB
+AT
+Dx
+Dx
+AT
+CO
+wo
+CO
+AT
+Zc
+Zc
+Zc
+Zc
+Zc
+Zc
+dS
+"}
+(48,1,3) = {"
+Yx
+Au
+ZB
+ZB
+ZB
+Sp
+ZB
+ZB
+ZB
+AT
+CO
+CO
+dy
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+dy
+CO
+CO
+dS
+Zc
+Zc
+Qm
+Rc
+TK
+TK
+dS
+"}
+(49,1,3) = {"
+AT
+oD
+ZB
+mL
+ZB
+Ad
+ZB
+mL
+ZB
+AT
+CO
+AS
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+ag
+CO
+CO
+AS
+CO
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+AS
+CO
+dS
+Zc
+Zc
+Zc
+TK
+XM
+TK
+dS
+"}
+(50,1,3) = {"
+AT
+Au
+ZB
+ZB
+ZB
+Ad
+ZB
+ZB
+ZB
+AT
+CO
+CO
+CO
+CO
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+zX
+CO
+wo
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+CO
+zX
+CO
+CO
+dS
+Zc
+Zc
+Zc
+TK
+TK
+TK
+dS
+"}
+(51,1,3) = {"
+dS
+dS
+dS
+sG
+AT
+AT
+AT
+dS
+AT
+AT
+dS
+Dx
+Dx
+SE
+SE
+AT
+AT
+dS
+Dx
+Dx
+SE
+AT
+AT
+AT
+dS
+dS
+dS
+dS
+SE
+SE
+SE
+AT
+AT
+AT
+AT
+SE
+SE
+Dx
+Dx
+AT
+AT
+AT
+AT
+AT
+SE
+SE
+dS
+dS
+dS
+AT
+AT
+"}

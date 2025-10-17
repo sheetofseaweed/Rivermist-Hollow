@@ -225,7 +225,8 @@
 	aportalgoesto = "magetower_underdark";
 	aportalid = "mageunderdark";
 	name = "teleport to Mage Tower";
-	alpha = 0
+	alpha = 0;
+	required_trait = "Arcyne Training (Expert)"
 	},
 /obj/effect/decal/cobbleedge{
 	icon = 'icons/obj/rune.dmi';
