@@ -78,5 +78,5 @@
 					else
 						H.fire_act(1) (APPLE EDIT:I think something along the lines of this is whats used for burning in daylight)*/
 	if(H && H.mind)
-		var/datum/antagonist/vampire/new_antag = new /datum/antagonist/vampirelord/lesser()
+		var/datum/antagonist/vampire/new_antag = new /datum/antagonist/vampire()
 		H.mind.add_antag_datum(new_antag)

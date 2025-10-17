@@ -592,10 +592,10 @@
 
 /datum/quirk/vampire/on_spawn()
 	var/mob/living/carbon/human/H = quirk_holder
-	var/datum/antagonist/vampirelord/lesser/secret/new_antag = new ()
+	var/datum/antagonist/vampire/secret/new_antag = new ()
 	H.mind.add_antag_datum(new_antag)
-*/
-/datum/antagonist/vampirelord/lesser/secret
+
+/datum/antagonist/vampire/secret
 	//ashes = FALSE
 	//is_solo = TRUE
 	quirk = TRUE
@@ -604,15 +604,15 @@
 		"THE SUN IS ENEMY!",
 	)
 
-/datum/antagonist/vampirelord/lesser/secret/on_gain()
+/datum/antagonist/vampire/secret/on_gain()
 	. = ..()
 	owner.current.verbs -= /mob/living/carbon/human/proc/vampire_telepathy
 
-/datum/antagonist/vampirelord/lesser/secret/roundend_report()
+/datum/antagonist/vampire/secret/roundend_report()
 	return
 
-/datum/antagonist/vampirelord/lesser/secret/move_to_spawnpoint()
-	return
+/datum/antagonist/vampire/secret/move_to_spawnpoint()
+	return*/
 
 /datum/quirk/hypersensitivity
 	name = "Hypersensitivity"

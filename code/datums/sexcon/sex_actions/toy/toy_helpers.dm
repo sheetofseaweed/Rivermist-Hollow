@@ -19,10 +19,10 @@
 
 /proc/dildoburn(mob/living/user)
 	var/mob/living/carbon/human/H = user
-	var/datum/antagonist/vampirelord/V_lord = H.mind.has_antag_datum(/datum/antagonist/vampirelord/)
+	var/datum/antagonist/vampire/V_lord = H.mind.has_antag_datum(/datum/antagonist/vampire/)
 	var/datum/antagonist/werewolf/W = H.mind.has_antag_datum(/datum/antagonist/werewolf/)
 	if(ishuman(H))
-		if(H.mind.has_antag_datum(/datum/antagonist/vampirelord/lesser))
+		if(H.mind.has_antag_datum(/datum/antagonist/vampire))
 			if(prob(25))
 				to_chat(H, span_userdanger("THE SILVER SIZZLES AGAINST MY INSIDES!"))
 			H.adjustFireLoss(10)
@@ -30,7 +30,7 @@
 				H.fire_act(1,2)
 				H.freak_out()
 		if(V_lord)
-			if(V_lord.vamplevel < 4 && !H.mind.has_antag_datum(/datum/antagonist/vampirelord/lesser))
+			if(V_lord.research_points < 4 && !H.mind.has_antag_datum(/datum/antagonist/vampire))
 				if(prob(15))
 					to_chat(H, span_userdanger("The silver feels spicy inside."))
 				H.adjustFireLoss(3) //non immune vampire lord
@@ -44,10 +44,10 @@
 
 /proc/other_dildoburn(mob/living/user, mob/living/target)
 	var/mob/living/carbon/human/H = user
-	var/datum/antagonist/vampirelord/V_lord = H.mind.has_antag_datum(/datum/antagonist/vampirelord/)
+	var/datum/antagonist/vampire/V_lord = H.mind.has_antag_datum(/datum/antagonist/vampire/)
 	var/datum/antagonist/werewolf/W = H.mind.has_antag_datum(/datum/antagonist/werewolf/)
 	if(ishuman(H))
-		if(H.mind.has_antag_datum(/datum/antagonist/vampirelord/lesser))
+		if(H.mind.has_antag_datum(/datum/antagonist/vampire))
 			if(prob(25))
 				to_chat(H, span_userdanger("THE SILVER SIZZLES AGAINST MY INSIDES!"))
 			H.adjustFireLoss(10)
@@ -55,7 +55,7 @@
 				H.fire_act(1,2)
 				H.freak_out()
 		if(V_lord)
-			if(V_lord.vamplevel < 4 && !H.mind.has_antag_datum(/datum/antagonist/vampirelord/lesser))
+			if(V_lord.research_points < 4 && !H.mind.has_antag_datum(/datum/antagonist/vampire))
 				if(prob(15))
 					to_chat(H, span_userdanger("The silver feels spicy inside."))
 				H.adjustFireLoss(3) //non immune vampire lord

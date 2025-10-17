@@ -21,7 +21,7 @@
 /datum/outfit/job/roguetown/vamplord/regular/pre_equip(mob/living/carbon/human/H)
 	..()
 	if(H && H.mind)
-		var/datum/antagonist/vampire/new_antag = new /datum/antagonist/vampirelord()
+		var/datum/antagonist/vampire/new_antag = new /datum/antagonist/vampire()
 		H.mind.add_antag_datum(new_antag)
 
 /obj/effect/proc_holder/spell/self/convertrole/vampire
